@@ -1,0 +1,121 @@
+{
+  "company_name": "legacy service partners",
+  "industry": "Residential Home Services (HVAC, Plumbing, Electrical)",
+  "description": "Legacy Service Partners is a PE-backed platform that partners with local HVAC, plumbing, and electrical service companies across the U.S., providing capital, centralized platform services and go-to-market support while preserving local operators. Founded in 2021 and backed by Gridiron Capital, Legacy has rapidly scaled via add-on partnerships and now operates across ~19 states with 22\u201333+ partner brands and a large installed customer base.",
+  "estimated_revenue_mm": 250,
+  "revenue_source": "public_estimate",
+  "employee_count": 50,
+  "matching_clients": [
+    {
+      "client_name": "HomeTown Services",
+      "similarity": "identical",
+      "rationale": "Platform roll-up of residential HVAC/plumbing/electrical brands \u2014 same tri\u2011trade residential services model."
+    },
+    {
+      "client_name": "Cascade Services",
+      "similarity": "identical",
+      "rationale": "Residential HVAC, plumbing & electrical platform \u2014 identical business model and channel."
+    },
+    {
+      "client_name": "Friendly Home Service Group",
+      "similarity": "identical",
+      "rationale": "Multi-brand residential HVAC/plumbing/electrical platform \u2014 similar roll-up strategy and services mix."
+    },
+    {
+      "client_name": "User-Friendly Home Services",
+      "similarity": "identical",
+      "rationale": "Residential HVAC & plumbing platform \u2014 same sector and operational footprint."
+    },
+    {
+      "client_name": "Thermal Concepts",
+      "similarity": "similar",
+      "rationale": "Commercial HVAC & building controls \u2014 similar HVAC service lines but focused on commercial customers."
+    },
+    {
+      "client_name": "Norlee Group",
+      "similarity": "similar",
+      "rationale": "Electrical & specialty contracting \u2014 overlap on electrical services and skilled-trades field operations."
+    },
+    {
+      "client_name": "Epika (Epika Fleet Services)",
+      "similarity": "less_similar",
+      "rationale": "Fleet maintenance services \u2014 relevant to fleet & vehicle spend but different end market and service offering."
+    }
+  ],
+  "spend_categories": [
+    {
+      "category": "Direct Materials & Major Equipment (parts, HVAC units, water heaters)",
+      "estimated_spend_mm": 30.0,
+      "savings_opportunity_pct": 4.5,
+      "estimated_savings_mm": 1.35
+    },
+    {
+      "category": "Freight / Inbound Logistics (receiving parts, unit deliveries)",
+      "estimated_spend_mm": 7.5,
+      "savings_opportunity_pct": 10.0,
+      "estimated_savings_mm": 0.75
+    },
+    {
+      "category": "IT Services & Software (ServiceTitan, scheduling, CRM, SaaS)",
+      "estimated_spend_mm": 5.69,
+      "savings_opportunity_pct": 10.0,
+      "estimated_savings_mm": 0.57
+    },
+    {
+      "category": "Marketing & Advertising (digital PPC, local SEO, brand marketing)",
+      "estimated_spend_mm": 4.06,
+      "savings_opportunity_pct": 15.0,
+      "estimated_savings_mm": 0.61
+    },
+    {
+      "category": "Employee Benefits (medical/dental/vision plan design & brokerage)",
+      "estimated_spend_mm": 4.81,
+      "savings_opportunity_pct": 8.5,
+      "estimated_savings_mm": 0.41
+    },
+    {
+      "category": "Temp Labor / Contingent Workforce (seasonal helpers, call center temp staff)",
+      "estimated_spend_mm": 4.69,
+      "savings_opportunity_pct": 7.5,
+      "estimated_savings_mm": 0.35
+    },
+    {
+      "category": "Fleet / Vehicles & Fuel (fuel, maintenance, vehicle procurement)",
+      "estimated_spend_mm": 2.63,
+      "savings_opportunity_pct": 11.5,
+      "estimated_savings_mm": 0.3
+    },
+    {
+      "category": "MRO / Maintenance / Shop Supplies",
+      "estimated_spend_mm": 2.5,
+      "savings_opportunity_pct": 14.0,
+      "estimated_savings_mm": 0.35
+    },
+    {
+      "category": "Professional Services (legal, accounting, deal/transaction advisory)",
+      "estimated_spend_mm": 2.5,
+      "savings_opportunity_pct": 10.0,
+      "estimated_savings_mm": 0.25
+    },
+    {
+      "category": "Telecom & Connectivity (mobile, data plans, connectivity for field ops)",
+      "estimated_spend_mm": 2.0,
+      "savings_opportunity_pct": 20.0,
+      "estimated_savings_mm": 0.4
+    },
+    {
+      "category": "Insurance (property, liability, workers' comp)",
+      "estimated_spend_mm": 3.06,
+      "savings_opportunity_pct": 11.5,
+      "estimated_savings_mm": 0.35
+    },
+    {
+      "category": "Uniforms / Workwear / Safety PPE",
+      "estimated_spend_mm": 1.91,
+      "savings_opportunity_pct": 14.0,
+      "estimated_savings_mm": 0.27
+    }
+  ],
+  "total_estimated_savings_mm": 5.96,
+  "key_opportunities": "1) Direct materials & equipment sourcing: consolidating vendor agreements and national distributor terms (largest absolute savings opportunity, ~ $1.35MM). 2) Consolidate IT/SaaS and telecom (ServiceTitan, scheduling, mobile/data) to remove duplicate contracts and volume\u2011price (IT+telecom savings ~ $0.97MM). 3) Marketing & benefits optimization: centralize media buying and benefits plan design to capture scale (combined ~ $1.02MM)."
+}

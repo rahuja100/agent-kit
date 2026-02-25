@@ -1,0 +1,450 @@
+{
+  "clients": [
+    {
+      "name": "Covercraft",
+      "pe_sponsor": "Century Park"
+    },
+    {
+      "name": "CJ Pony Parts",
+      "pe_sponsor": "Century Park"
+    },
+    {
+      "name": "Lifelong Learner Holdings",
+      "pe_sponsor": "Waud"
+    },
+    {
+      "name": "National Carwash Solutions",
+      "pe_sponsor": "Berkshire"
+    },
+    {
+      "name": "IPC Systems",
+      "pe_sponsor": "SVP Capital"
+    },
+    {
+      "name": "AP Derm",
+      "pe_sponsor": "Waud"
+    },
+    {
+      "name": "AmerCareRoyal",
+      "pe_sponsor": "HCI"
+    },
+    {
+      "name": "WPS, LLC",
+      "pe_sponsor": "Cross Rapids"
+    },
+    {
+      "name": "Advantia Health",
+      "pe_sponsor": "Assured Health Partners"
+    },
+    {
+      "name": "Function of Beauty",
+      "pe_sponsor": "L. Catterton"
+    },
+    {
+      "name": "The PromptCare Companies",
+      "pe_sponsor": "Waud"
+    },
+    {
+      "name": "Jegs Automotive, LLC",
+      "pe_sponsor": "Greenbriar"
+    },
+    {
+      "name": "Southern Graphics, Inc",
+      "pe_sponsor": "SVP Capital"
+    },
+    {
+      "name": "Wineshipping LLC",
+      "pe_sponsor": "Greenbriar"
+    },
+    {
+      "name": "Electrical Source Holdings, LLC",
+      "pe_sponsor": "Greenbriar"
+    },
+    {
+      "name": "Platinum Dermatology",
+      "pe_sponsor": "Sun Capital"
+    },
+    {
+      "name": "Wilson Electronics",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Total Power",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Worldwide Express",
+      "pe_sponsor": "CVC"
+    },
+    {
+      "name": "MGT of America Consulting, LLC",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "CCMC",
+      "pe_sponsor": "Sun Capital"
+    },
+    {
+      "name": "Universal Woods, LLC",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "National Seating and Mobility",
+      "pe_sponsor": "Cinven"
+    },
+    {
+      "name": "Reaction Biology Corp.",
+      "pe_sponsor": "Copeba"
+    },
+    {
+      "name": "Oscar W Larson Co",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "HomeTown Services",
+      "pe_sponsor": "Center Oak"
+    },
+    {
+      "name": "Rubicon Bakers",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Cafe Rio Inc",
+      "pe_sponsor": "Freeman Spogoli"
+    },
+    {
+      "name": "Klick Inc.",
+      "pe_sponsor": "GTCR"
+    },
+    {
+      "name": "Valor Healthcare, Inc.",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Hy-Tek Material Handling",
+      "pe_sponsor": "Dunes Point Capital"
+    },
+    {
+      "name": "RANDYS WorldWide, Inc",
+      "pe_sponsor": "Greenbriar"
+    },
+    {
+      "name": "K-1 Packaging Group",
+      "pe_sponsor": "Dunes Point Capital"
+    },
+    {
+      "name": "High Bar Brands",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "Vanguard Packaging",
+      "pe_sponsor": "Dunes Point Capital"
+    },
+    {
+      "name": "Shearer Supply",
+      "pe_sponsor": "Investcorp"
+    },
+    {
+      "name": "Imprimus",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "Chromascape",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "Microcare, LLC",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "Artisant Lane",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "S&S Truck Parts Inc",
+      "pe_sponsor": "Investcorp"
+    },
+    {
+      "name": "Greenrise Technologies",
+      "pe_sponsor": "Boyne Capital"
+    },
+    {
+      "name": "NativeSeed",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "RoadSafe Traffic Systems",
+      "pe_sponsor": "Investcorp"
+    },
+    {
+      "name": "Tarter Gate Company, LLC",
+      "pe_sponsor": "Platinum Equity"
+    },
+    {
+      "name": "Choice Health",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Sargeant & Greenleaf Inc",
+      "pe_sponsor": "Opengate"
+    },
+    {
+      "name": "Nwestco",
+      "pe_sponsor": "Guardian"
+    },
+    {
+      "name": "QualDerm",
+      "pe_sponsor": "Baypine"
+    },
+    {
+      "name": "CAM",
+      "pe_sponsor": "Cross Rapids"
+    },
+    {
+      "name": "Somafina",
+      "pe_sponsor": "HWP"
+    },
+    {
+      "name": "PerTronix Inc",
+      "pe_sponsor": "Charger Investment Partners"
+    },
+    {
+      "name": "Robinson Helicopter Co",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "TAK Communications",
+      "pe_sponsor": "Platinum Equity"
+    },
+    {
+      "name": "Thermal Concepts",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Venturi Supply",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Revature",
+      "pe_sponsor": "Investcorp"
+    },
+    {
+      "name": "Premium Guard",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Breg",
+      "pe_sponsor": "HPS Investment Partners"
+    },
+    {
+      "name": "Genova Diagnostics",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "Kamik",
+      "pe_sponsor": "TorQuest Partners"
+    },
+    {
+      "name": "Christianbook",
+      "pe_sponsor": "Nonantum Capital Partners"
+    },
+    {
+      "name": "Epika",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "User-Friendly Home Services",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "SaVida",
+      "pe_sponsor": "Council Capital"
+    },
+    {
+      "name": "Douglas Machines",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "O2B Kids",
+      "pe_sponsor": "Spire Capital"
+    },
+    {
+      "name": "Royal Food Service",
+      "pe_sponsor": "Trilantic Capital Partners"
+    },
+    {
+      "name": "Voyant Beauty Inc",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "The Vertex Companies, LLC",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "HASA, Inc.",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "FreshEdge",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "Open Road",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Tropicale",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "D&H United",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "SmartCare",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "GLOBO Language Solutions",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "PATCO Products",
+      "pe_sponsor": "Kingswood Capital Management"
+    },
+    {
+      "name": "Heart and Vascular Partners",
+      "pe_sponsor": "Assured Health Partners"
+    },
+    {
+      "name": "Pacesetter Health",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "Naturpak",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Yummy Pools",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "EWSG",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "HFW Companies",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "Cascade Services",
+      "pe_sponsor": "Trive"
+    },
+    {
+      "name": "Emerald Technologies",
+      "pe_sponsor": "Crestview Partners"
+    },
+    {
+      "name": "Enerpac Tool Group",
+      "pe_sponsor": "NA"
+    },
+    {
+      "name": "Bluum",
+      "pe_sponsor": "HIG"
+    },
+    {
+      "name": "Growth Orthopedics",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Bright Event Rentals",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Remedi8",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "California Fish Grill",
+      "pe_sponsor": "KarpReilly"
+    },
+    {
+      "name": "Flexcon",
+      "pe_sponsor": "NA"
+    },
+    {
+      "name": "Legacy Cabinets",
+      "pe_sponsor": "Black Diamond"
+    },
+    {
+      "name": "Kravet",
+      "pe_sponsor": "Dunes Point Capital"
+    },
+    {
+      "name": "ReFocus Management Services, LLC",
+      "pe_sponsor": "Zenyth Partners"
+    },
+    {
+      "name": "Experigreen Lawn Care, LLC",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "SDC Nutrition Inc",
+      "pe_sponsor": "Shore Capital"
+    },
+    {
+      "name": "Innovative Foodservice Group",
+      "pe_sponsor": "Trivest"
+    },
+    {
+      "name": "Olympus Cosmetic Group",
+      "pe_sponsor": "VSS"
+    },
+    {
+      "name": "Double B Foods",
+      "pe_sponsor": "Anderson Group"
+    },
+    {
+      "name": "Friendly Home Service Group",
+      "pe_sponsor": "RFE Investment Partners"
+    },
+    {
+      "name": "Printful",
+      "pe_sponsor": "Bregal Sagemount"
+    },
+    {
+      "name": "Monarca Foods",
+      "pe_sponsor": "Wind Point Partners"
+    },
+    {
+      "name": "Belt Power",
+      "pe_sponsor": "Platte River Equity"
+    },
+    {
+      "name": "In-Place Machining Company",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "USA Water",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "Milton Industries",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "Science Care",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "Capsa Healthcare",
+      "pe_sponsor": "LLCP"
+    },
+    {
+      "name": "Norlee Group",
+      "pe_sponsor": "HWP"
+    }
+  ],
+  "count": 111,
+  "last_scanned": "2026-02-24T07:45:42.798410+00:00"
+}

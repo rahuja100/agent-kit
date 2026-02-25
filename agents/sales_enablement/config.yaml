@@ -1,0 +1,15 @@
+max_iterations: 250
+
+function_models:
+  "sales_enablement/orchestrator": "gpt-5"
+  "sales_enablement/researcher": "gpt-5"
+  "sales_enablement/portfolio_finder": "gpt-5-mini"
+  "sales_enablement/company_analyzer": "gpt-5"
+  "sales_enablement/summary_generator": "gpt-5"
+
+function_reasoning:
+  "sales_enablement/orchestrator": "high"
+  "sales_enablement/researcher": "medium"
+  "sales_enablement/portfolio_finder": "medium"
+  "sales_enablement/company_analyzer": "medium"
+  "sales_enablement/summary_generator": "medium"

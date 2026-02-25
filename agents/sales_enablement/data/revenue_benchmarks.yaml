@@ -1,0 +1,160 @@
+# Revenue Estimation Benchmarks
+# Used by /analyze to triangulate portfolio company revenue.
+# Calibrated for mid-market PE portfolio companies ($20MM-$500MM revenue).
+# Edit these to refine estimates. Changes take effect on next /analyze run.
+
+# Priority order for estimation:
+#   1. Employee count x revenue-per-employee ratio (most reliable for private companies)
+#   2. PE fund size heuristic (constrains the range)
+#   3. Public estimates (ZoomInfo, D&B, press releases -- use as sanity check only)
+
+# Revenue per employee by industry (in $K per employee)
+# These are mid-market private company benchmarks, NOT large-cap public company figures
+revenue_per_employee:
+  heavy_manufacturing:
+    label: "Heavy Manufacturing (metals, chemicals, auto parts, industrial equipment)"
+    rpe_k: {low: 200, mid: 300, high: 400}
+    notes: "Capital-intensive, moderate labor. Varies by automation level."
+
+  light_manufacturing:
+    label: "Light Manufacturing / Assembly (consumer products, packaging, electronics)"
+    rpe_k: {low: 150, mid: 225, high: 300}
+    notes: "More labor-intensive than heavy mfg. Assembly operations at lower end."
+
+  distribution_wholesale:
+    label: "Distribution / Wholesale"
+    rpe_k: {low: 400, mid: 600, high: 800}
+    notes: "High throughput per employee. Pass-through revenue inflates RPE."
+
+  healthcare_services:
+    label: "Healthcare Services (physician practices, clinics, home health, behavioral)"
+    rpe_k: {low: 100, mid: 150, high: 200}
+    notes: "Labor-intensive (clinicians, nurses, admin). Multi-site platforms at higher end."
+
+  healthcare_products:
+    label: "Healthcare Products (medical devices, diagnostics, pharma services)"
+    rpe_k: {low: 200, mid: 300, high: 400}
+    notes: "Higher margin than services. Lab/manufacturing operations."
+
+  business_services_field:
+    label: "Business Services - Field (facilities mgmt, remediation, environmental, maintenance)"
+    rpe_k: {low: 100, mid: 175, high: 250}
+    notes: "Field workforce-heavy. Revenue per employee lower than office-based services."
+
+  business_services_professional:
+    label: "Business Services - Professional (consulting, staffing, engineering)"
+    rpe_k: {low: 80, mid: 150, high: 250}
+    notes: "Staffing firms at low end ($80-120K), consulting firms at high end ($200K+)."
+
+  technology_services:
+    label: "Technology / IT Services (managed services, IT support, telecom services)"
+    rpe_k: {low: 150, mid: 225, high: 350}
+    notes: "MSPs and IT staffing at lower end. SaaS-like models at higher end."
+
+  technology_software:
+    label: "Technology / Software (SaaS, platforms)"
+    rpe_k: {low: 200, mid: 325, high: 500}
+    notes: "High scalability. Mature SaaS at higher end, early-stage at lower."
+
+  food_beverage_manufacturing:
+    label: "Food & Beverage Manufacturing (food processing, bakeries, CPG)"
+    rpe_k: {low: 200, mid: 275, high: 350}
+    notes: "Processing operations. Commodity ingredients compress margins."
+
+  food_beverage_restaurants:
+    label: "Food & Beverage - Restaurants / Foodservice"
+    rpe_k: {low: 60, mid: 100, high: 150}
+    notes: "Very labor-intensive. QSR/fast-casual at lower end, fine dining higher."
+
+  construction_trades:
+    label: "Construction / Trades (HVAC, electrical, plumbing, building products)"
+    rpe_k: {low: 150, mid: 225, high: 300}
+    notes: "Skilled trades. Building products manufacturers at higher end."
+
+  education_training:
+    label: "Education / Training / Childcare"
+    rpe_k: {low: 60, mid: 100, high: 150}
+    notes: "Very labor-intensive. Low student/child-to-staff ratios."
+
+  transportation_logistics:
+    label: "Transportation / Logistics / Fleet Services"
+    rpe_k: {low: 150, mid: 250, high: 400}
+    notes: "Asset-heavy (trucks, equipment). 3PLs at higher end, field services lower."
+
+  energy_environmental:
+    label: "Energy / Utilities / Environmental Services"
+    rpe_k: {low: 150, mid: 250, high: 400}
+    notes: "Wide range. Fuel distribution very high RPE, field services lower."
+
+  aerospace_defense:
+    label: "Aerospace / Defense / Electronics Manufacturing"
+    rpe_k: {low: 200, mid: 325, high: 450}
+    notes: "Precision manufacturing. Contract-driven, higher margins."
+
+  consumer_retail:
+    label: "Consumer Products / Retail / E-commerce"
+    rpe_k: {low: 150, mid: 250, high: 400}
+    notes: "E-commerce higher RPE, brick-and-mortar retail lower."
+
+  life_sciences:
+    label: "Life Sciences / MedTech / CRO"
+    rpe_k: {low: 200, mid: 300, high: 450}
+    notes: "Specialized workforce. Regulatory adds cost but also margin."
+
+# PE fund size to portfolio company revenue mapping
+pe_fund_size_heuristics:
+  micro:
+    label: "Micro / Search Fund"
+    fund_size: "Under $100MM"
+    typical_revenue: {low: 5, mid: 25, high: 50}
+    typical_ev: {low: 10, mid: 30, high: 75}
+
+  lower_middle:
+    label: "Lower Middle Market"
+    fund_size: "$100MM-$500MM"
+    typical_revenue: {low: 20, mid: 75, high: 150}
+    typical_ev: {low: 30, mid: 100, high: 250}
+
+  middle:
+    label: "Middle Market"
+    fund_size: "$500MM-$1.5B"
+    typical_revenue: {low: 75, mid: 200, high: 500}
+    typical_ev: {low: 100, mid: 350, high: 750}
+
+  upper_middle:
+    label: "Upper Middle Market"
+    fund_size: "$1.5B-$5B"
+    typical_revenue: {low: 200, mid: 500, high: 1500}
+    typical_ev: {low: 300, mid: 750, high: 2000}
+
+  large_cap:
+    label: "Large Cap"
+    fund_size: "$5B+"
+    typical_revenue: {low: 500, mid: 1500, high: 5000}
+    typical_ev: {low: 1000, mid: 3000, high: 10000}
+
+# Instructions for the LLM on how to use these benchmarks
+estimation_methodology: |
+  To estimate revenue for a private PE portfolio company, TRIANGULATE using these steps:
+
+  1. EMPLOYEE COUNT (highest priority):
+     - Search for employee count on LinkedIn, company website, or web sources
+     - Match the company to the closest industry category above
+     - Calculate: revenue = employees x mid RPE
+     - Use low/high RPE to establish a range
+
+  2. PE FUND SIZE (second priority):
+     - Determine the PE firm's most recent fund size
+     - Use the pe_fund_size_heuristics to constrain the revenue range
+     - A $300MM fund is unlikely to own a $500MM revenue company
+
+  3. PUBLIC ESTIMATES (sanity check only):
+     - Check ZoomInfo, Dun & Bradstreet, Growjo, press releases
+     - These vary widely for private companies -- do NOT rely on a single source
+     - Use as confirmation, not primary estimate
+
+  4. FINAL ESTIMATE:
+     - If employee-based and fund-based ranges overlap, use the midpoint of the overlap
+     - If they don't overlap, favor the employee-based estimate
+     - If no employee count is available, use fund-size heuristic as primary
+     - Always report the range (low-high) and which method drove the estimate

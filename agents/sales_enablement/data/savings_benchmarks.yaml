@@ -1,0 +1,238 @@
+# Savings Benchmarks Configuration
+# Edit these to adjust savings estimates. The /analyze step reads this file.
+# Changes take effect on the next /analyze run.
+#
+# IMPORTANT: These percentages represent ADDRESSABLE SPEND only.
+# They exclude salaries/labor (not sourceable) and profit margins.
+# Typical mid-market company: Revenue = Labor (30-50%) + Addressable Spend (25-45%) + EBITDA (8-15%)
+
+# Industry profiles: addressable COGS and Indirect as % of REVENUE
+# (excludes labor costs and profit margin)
+industry_profiles:
+  heavy_manufacturing:
+    label: "Heavy Manufacturing"
+    addressable_cogs_pct: {min: 35, max: 50}
+    addressable_indirect_pct: {min: 8, max: 14}
+    labor_pct_note: "Labor typically 20-30% of revenue"
+    ebitda_pct_note: "EBITDA typically 10-18%"
+    examples: "Auto parts, chemicals, metals, industrial equipment"
+
+  light_manufacturing:
+    label: "Light Manufacturing / Assembly"
+    addressable_cogs_pct: {min: 25, max: 40}
+    addressable_indirect_pct: {min: 10, max: 16}
+    labor_pct_note: "Labor typically 25-35% of revenue"
+    ebitda_pct_note: "EBITDA typically 8-15%"
+    examples: "Consumer products, packaging, electronics assembly"
+
+  distribution:
+    label: "Distribution / Wholesale"
+    addressable_cogs_pct: {min: 55, max: 72}
+    addressable_indirect_pct: {min: 5, max: 10}
+    labor_pct_note: "Labor typically 8-15% of revenue (lean operations)"
+    ebitda_pct_note: "EBITDA typically 5-10%"
+    examples: "Distributors, logistics providers, wholesalers"
+
+  healthcare_services:
+    label: "Healthcare Services"
+    addressable_cogs_pct: {min: 8, max: 18}
+    addressable_indirect_pct: {min: 10, max: 18}
+    labor_pct_note: "Labor typically 45-60% of revenue (clinicians, nurses, admin)"
+    ebitda_pct_note: "EBITDA typically 8-15%"
+    examples: "Physician practices, clinics, home health, behavioral health"
+
+  business_services_field:
+    label: "Business Services - Field"
+    addressable_cogs_pct: {min: 10, max: 20}
+    addressable_indirect_pct: {min: 10, max: 16}
+    labor_pct_note: "Labor typically 40-55% of revenue (field workforce)"
+    ebitda_pct_note: "EBITDA typically 8-14%"
+    examples: "Facilities management, remediation, environmental, maintenance, landscaping"
+
+  business_services_professional:
+    label: "Business Services - Professional"
+    addressable_cogs_pct: {min: 5, max: 12}
+    addressable_indirect_pct: {min: 12, max: 20}
+    labor_pct_note: "Labor typically 50-65% of revenue (consultants, staff)"
+    ebitda_pct_note: "EBITDA typically 10-18%"
+    examples: "Staffing, consulting, engineering, legal services"
+
+  technology:
+    label: "Technology / Software / IT Services"
+    addressable_cogs_pct: {min: 5, max: 15}
+    addressable_indirect_pct: {min: 10, max: 18}
+    labor_pct_note: "Labor typically 45-60% of revenue (engineers, support)"
+    ebitda_pct_note: "EBITDA typically 15-25%"
+    examples: "IT services, SaaS, telecom, managed services"
+
+  food_beverage_manufacturing:
+    label: "Food & Beverage Manufacturing"
+    addressable_cogs_pct: {min: 35, max: 50}
+    addressable_indirect_pct: {min: 8, max: 14}
+    labor_pct_note: "Labor typically 20-30% of revenue"
+    ebitda_pct_note: "EBITDA typically 8-12%"
+    examples: "Food processing, bakeries, beverage production, CPG"
+
+  food_beverage_restaurants:
+    label: "Restaurants / Foodservice"
+    addressable_cogs_pct: {min: 25, max: 35}
+    addressable_indirect_pct: {min: 8, max: 14}
+    labor_pct_note: "Labor typically 30-40% of revenue"
+    ebitda_pct_note: "EBITDA typically 8-15%"
+    examples: "Fast-casual, QSR, catering, institutional foodservice"
+
+  construction:
+    label: "Construction / Trades"
+    addressable_cogs_pct: {min: 25, max: 40}
+    addressable_indirect_pct: {min: 8, max: 14}
+    labor_pct_note: "Labor typically 30-40% of revenue (skilled trades)"
+    ebitda_pct_note: "EBITDA typically 8-14%"
+    examples: "HVAC, electrical, plumbing, building products"
+
+  education_nonprofit:
+    label: "Education / Nonprofit"
+    addressable_cogs_pct: {min: 5, max: 12}
+    addressable_indirect_pct: {min: 12, max: 20}
+    labor_pct_note: "Labor typically 55-70% of revenue"
+    ebitda_pct_note: "EBITDA typically 3-8%"
+    examples: "Schools, training providers, childcare, nonprofits"
+
+  transportation_logistics:
+    label: "Transportation / Logistics / Fleet"
+    addressable_cogs_pct: {min: 30, max: 45}
+    addressable_indirect_pct: {min: 8, max: 14}
+    labor_pct_note: "Labor typically 25-35% of revenue (drivers, operators)"
+    ebitda_pct_note: "EBITDA typically 8-14%"
+    examples: "Trucking, fleet services, last-mile, 3PL"
+
+# COGS sub-categories (LLM picks relevant ones based on industry)
+# These are sub-allocations WITHIN the addressable COGS % above
+cogs_categories:
+  - category: "Raw Materials / Direct Materials"
+    addressable_pct: 40
+    savings_pct: {min: 3, max: 6}
+    applies_to: "Manufacturing, construction"
+
+  - category: "Packaging / Containers"
+    addressable_pct: 90
+    savings_pct: {min: 8, max: 15}
+    applies_to: "Product companies, food, consumer goods"
+
+  # Contract Manufacturing is NOT addressable -- excluded from analysis
+
+  - category: "Medical Supplies & Devices"
+    addressable_pct: 60
+    savings_pct: {min: 8, max: 18}
+    applies_to: "Healthcare"
+
+  - category: "Medical Equipment (capital & leased)"
+    addressable_pct: 60
+    savings_pct: {min: 5, max: 12}
+    applies_to: "Healthcare"
+
+  - category: "Pharmaceuticals / Lab Supplies"
+    addressable_pct: 60
+    savings_pct: {min: 5, max: 12}
+    applies_to: "Healthcare, life sciences"
+
+  - category: "Food Ingredients / Commodities"
+    addressable_pct: 70
+    savings_pct: {min: 3, max: 8}
+    applies_to: "Food & beverage"
+
+  - category: "Freight / Inbound Logistics"
+    addressable_pct: 85
+    savings_pct: {min: 8, max: 12}
+    applies_to: "Manufacturing, distribution, food & beverage, construction, e-commerce. NOT applicable to healthcare services, professional services, technology, education."
+
+  - category: "Outbound Shipping / Parcel"
+    addressable_pct: 85
+    savings_pct: {min: 8, max: 15}
+    applies_to: "E-commerce, distribution, retail, direct-to-consumer. NOT applicable to healthcare services, professional services, education."
+
+  - category: "Fuel / Energy (operational)"
+    addressable_pct: 50
+    savings_pct: {min: 2, max: 5}
+    applies_to: "Transportation, fleet, manufacturing. NOT applicable to healthcare services, professional services, technology, education."
+
+# Indirect sub-categories (universal, apply to most companies)
+# spend_pct is % of REVENUE (within the addressable indirect % above)
+indirect_categories:
+  - category: "IT Services & Software"
+    spend_pct: {min: 2, max: 5}
+    addressable_pct: 65
+    savings_pct: {min: 5, max: 15}
+
+  - category: "Telecom & Connectivity"
+    spend_pct: {min: 0.5, max: 1.5}
+    addressable_pct: 80
+    savings_pct: {min: 15, max: 25}
+
+  - category: "Facilities / Real Estate / Rent"
+    spend_pct: {min: 1.5, max: 4}
+    addressable_pct: 0
+    savings_pct: {min: 0, max: 0}
+    note: "Not addressable -- lease terms and real estate excluded from sourcing"
+
+  - category: "Professional Services (Legal, Accounting, Consulting)"
+    spend_pct: {min: 1, max: 3}
+    addressable_pct: 50
+    savings_pct: {min: 5, max: 15}
+
+  - category: "Employee Benefits (Medical, Dental, Vision)"
+    spend_pct: {min: 1.5, max: 4}
+    addressable_pct: 70
+    savings_pct: {min: 5, max: 12}
+    note: "Benefits brokerage and plan design -- excludes salary costs"
+
+  - category: "Payroll Administration"
+    spend_pct: {min: 0.3, max: 1}
+    addressable_pct: 80
+    savings_pct: {min: 8, max: 15}
+    note: "Payroll processing, HRIS, and related services"
+
+  - category: "Travel & Entertainment"
+    spend_pct: {min: 0.5, max: 2}
+    addressable_pct: 75
+    savings_pct: {min: 15, max: 25}
+
+  - category: "Marketing & Advertising"
+    spend_pct: {min: 1, max: 4}
+    addressable_pct: 65
+    savings_pct: {min: 10, max: 20}
+
+  - category: "MRO / Maintenance / Janitorial"
+    spend_pct: {min: 0.5, max: 2}
+    addressable_pct: 80
+    savings_pct: {min: 10, max: 18}
+
+  - category: "Fleet / Vehicles / Fuel"
+    spend_pct: {min: 0.5, max: 3}
+    addressable_pct: 60
+    savings_pct: {min: 8, max: 15}
+
+  - category: "Insurance (Property, Liability, Workers Comp)"
+    spend_pct: {min: 1, max: 2.5}
+    addressable_pct: 70
+    savings_pct: {min: 8, max: 15}
+
+  - category: "Waste & Environmental Services"
+    spend_pct: {min: 0.3, max: 1.5}
+    addressable_pct: 80
+    savings_pct: {min: 10, max: 20}
+
+  - category: "Uniforms / Workwear / Safety"
+    spend_pct: {min: 0.3, max: 1.5}
+    addressable_pct: 85
+    savings_pct: {min: 10, max: 18}
+
+  - category: "Temp Labor / Contingent Workforce"
+    spend_pct: {min: 1, max: 4}
+    addressable_pct: 75
+    savings_pct: {min: 5, max: 10}
+    note: "Contingent/temp labor procurement only -- excludes FTE salaries"
+
+  - category: "Printing / Office Supplies"
+    spend_pct: {min: 0.3, max: 0.8}
+    addressable_pct: 90
+    savings_pct: {min: 15, max: 25}

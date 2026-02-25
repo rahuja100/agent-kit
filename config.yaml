@@ -1,0 +1,2 @@
+connection:
+  request_timeout: 300  # 5 minutes to handle slow connections + gpt-5 + web_search

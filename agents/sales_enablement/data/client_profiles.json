@@ -1,0 +1,1112 @@
+[
+  {
+    "name": "Covercraft",
+    "pe_sponsor": "Century Park",
+    "industry": "Consumer Products",
+    "sector": "Automotive, Marine & RV Protection Products",
+    "description": "Covercraft Industries, LLC is a leading branded manufacturer of custom vehicle protection products including automotive covers, seat covers, front end masks, dashboard covers, window sunscreens, RV and boat covers, patio furniture covers and related accessories. Founded in 1965 and headquartered in Pauls Valley, Oklahoma, the company operates manufacturing facilities in the U.S., Mexico, and Australia and maintains an extensive pattern library for custom fitment. Century Park invested in and grew the business before selling Covercraft to Audax Private Equity in August 2021.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Sold to Audax Private Equity in August 2021 (Century Park exited)."
+  },
+  {
+    "name": "CJ Pony Parts",
+    "pe_sponsor": "Century Park Capital Partners",
+    "industry": "Retail & E-commerce",
+    "sector": "Aftermarket Automotive Parts & Accessories (Classic Mustang-focused)",
+    "description": "CJ Pony Parts is an e-commerce retailer founded in 1985 that sells restoration and performance parts and accessories primarily for Ford Mustangs and other classic and late-model vehicles. Headquartered in Harrisburg, PA with additional distribution capacity in Las Vegas, the company operates a large SKU assortment and produces customer-facing educational content and video. The business was recapitalized by Century Park in April 2021 and has pursued add-on brand expansion, including the acquisition of American Powertrain in July 2024.",
+    "estimated_revenue_range": "$10M-$100M",
+    "confidence": "medium",
+    "notes": "Recapitalized by Century Park in April 2021; acquired American Powertrain (add-on) on July 11, 2024; third-party revenue estimates vary (Buzzfile/Growjo/IncFact)."
+  },
+  {
+    "name": "Lifelong Learner Holdings",
+    "pe_sponsor": "Waud Capital Partners",
+    "industry": "Education & Training",
+    "sector": "Assessment & Credentialing Services (talent testing, licensure & continuing education)",
+    "description": "Lifelong Learner Holdings LLC is a holding company that owns and operates education, assessment, and credentialing businesses providing licensure, certification, workforce assessment, and continuing-education services across multiple industries. Its portfolio has included Talogy (talent assessment) and Mbition (real estate education); the company\u2019s PSI testing/credentialing affiliate was sold to ETS on January 29, 2024.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "PE owner: Waud Capital Partners; PSI sold to ETS (Jan 29, 2024); HQ reported in Glendale, CA; Founded 1946; Revenue not publicly disclosed; Sources: Waud press, ETS press release, PRWeb, Bloomberg, Crunchbase."
+  },
+  {
+    "name": "National Carwash Solutions",
+    "pe_sponsor": "Berkshire",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Car Wash Equipment, Chemicals & Services",
+    "description": "National Carwash Solutions (NCS) is a North American provider of car wash equipment, cleaning chemicals, spare parts, and field services. NCS operates a family of brands (including MacNeil, Ryko, Vacutech, CleanTouch, and Cleaning Systems Inc.) and offers systems, aftermarket support, water treatment, and connectivity/marketing solutions delivered through a nationwide service network. The company bundles equipment, consumables, and recurring service to car wash operators and convenience-store/gas-station owners.",
+    "estimated_revenue_range": "$100M-$250M",
+    "confidence": "high",
+    "notes": "Owned by Berkshire Partners (invested 2020). Explored sale process in Sep 2023 (Reuters). Revenue estimate from Salary.com."
+  },
+  {
+    "name": "IPC Systems",
+    "pe_sponsor": "SVP Capital",
+    "industry": "Telecommunications & Networking",
+    "sector": "Trading Communications & Market Connectivity Solutions",
+    "description": "IPC Systems provides mission-critical trading communications, electronic trading platforms, and managed network/connectivity services to global financial markets. Its offerings include trading turrets, unified communications (Connexus/Unigy), market data solutions, and multi-cloud connectivity for buy- and sell-side firms and exchanges. IPC is a privately held company serving financial institutions with both hardware and SaaS/managed-service solutions.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "PE note: user-supplied sponsor name 'SVP Capital' appears to refer to Strategic Value Partners (SVP/SVPGlobal). SVP became a majority owner in 2021 and acquired the remaining 40% to take full ownership on Jan 9, 2024; previously co-owned by Centerbridge. Headquartered in New York/Jersey City. Revenue not publicly disclosed in authoritative filings."
+  },
+  {
+    "name": "AP Derm",
+    "pe_sponsor": "Waud",
+    "industry": "Healthcare Services",
+    "sector": "Dermatology practice network & dermatopathology",
+    "description": "AP Derm (Adult & Pediatric Dermatology, APDerm) is a physician-led network of dermatology practices in New England providing medical, surgical and cosmetic dermatology services, teledermatology, and in-house dermatopathology. Founded in 1992, the platform has expanded through acquisitions and de novo openings across Massachusetts, New Hampshire and Rhode Island. Waud Capital Partners made a growth investment in APDerm in October 2017 to support network expansion.",
+    "estimated_revenue_range": "$50M-$100M",
+    "confidence": "medium",
+    "notes": "Waud Capital Partners invested in APDerm (press releases dated Oct 3, 2017). Revenue range is an estimate from third-party firmographics and may vary; APDerm has expanded to dozens of clinics across MA, NH, and RI and operates an in-house dermatopathology lab and telederm service."
+  },
+  {
+    "name": "AmerCareRoyal",
+    "pe_sponsor": "HCI Equity Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Disposable Foodservice & Janitorial Products Distribution",
+    "description": "AmerCareRoyal is a manufacturer and distributor of disposable products for foodservice, janitorial, sanitation, industrial, medical, and hospitality customers. Formed in 2016 through the merger of AmerCare and Royal Paper and backed by HCI Equity Partners, it operates multiple shipping points across North America and has grown through several add-on acquisitions to expand product lines and packaging capabilities.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "HCI Equity Partners-backed platform formed via 2016 merger of AmerCare and Royal Paper; notable add-on acquisitions include McNairn Packaging (2019) and Thermosource Tooling & Manufacturing (TTM) (2024). Headquartered in Exton/near Philadelphia, PA. Revenue not publicly disclosed."
+  },
+  {
+    "name": "WPS, LLC",
+    "pe_sponsor": "Cross Rapids",
+    "industry": "Food & Beverage",
+    "sector": "Fresh Produce Logistics & Distribution",
+    "description": "Wholesale Produce Supply LLC (doing business as WPS Fresh) is a fresh produce logistics and inventory management provider serving grocery wholesalers, foodservice distributors, quick-service restaurants and other customers in the Midwestern U.S. and Central Canada. The company sources approximately 100 fresh produce commodities through a network of 300+ growers globally and offers value-added services such as ripening, grading, fresh-cut processing, washing, sorting, packaging, and both recurring and just-in-time less-than-truckload deliveries.",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "medium",
+    "notes": "Matches Wholesale Produce Supply LLC (WPS Fresh), acquired by Cross Rapids Capital on Oct 29, 2021; revenue estimates vary across third-party sources (Growjo, Zippia, Buzzfile); multiple unrelated entities use the name 'WPS', so disambiguation via PE sponsor was used."
+  },
+  {
+    "name": "Advantia Health",
+    "pe_sponsor": "Assured Health Partners",
+    "industry": "Healthcare Services",
+    "sector": "Women's Health Services (OB-GYN, outpatient women's clinics, telehealth)",
+    "description": "Advantia Health is a U.S.-based women's healthcare services platform (headquartered in Arlington, VA) that operates outpatient OB-GYN and women's health clinics and offers integrated telehealth and imaging partnerships. The company has pursued growth through private investment and partnerships to expand services.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "PE sponsor name ambiguous in public sources: company press cites a $45M investment from BlueMountain/Assured Guaranty (2019); private-equity directories list Assured Healthcare/Assured Health Partners. Public revenue estimates vary across data providers; flagged as uncertain."
+  },
+  {
+    "name": "Function of Beauty",
+    "pe_sponsor": "L. Catterton",
+    "industry": "Consumer & Personal Care",
+    "sector": "Customizable Hair, Skin & Body Care",
+    "description": "Founded in 2015, Function of Beauty makes customizable hair, skin, and body care products sold direct-to-consumer and through retail partners. Customers complete an online quiz to create personalized formulas which are manufactured in-house in a made-to-order facility. The company received a strategic $150M minority investment from L Catterton in December 2020.",
+    "estimated_revenue_range": "$100M-$300M",
+    "confidence": "medium",
+    "notes": "Received $150M strategic minority investment from L Catterton (Dec 2, 2020); revenue estimate based on press and industry reports; not publicly disclosed."
+  },
+  {
+    "name": "The PromptCare Companies",
+    "pe_sponsor": "Waud",
+    "industry": "Healthcare Services",
+    "sector": "Home infusion & specialty pharmacy; complex respiratory (DME) services",
+    "description": "PromptCare provides in-home respiratory care and home/alternate-site infusion therapy and specialty pharmacy services for complex, chronic, and rare conditions. The company operates a national network of clinical teams (respiratory therapists, nurses, pharmacists) and delivers high\u2011tech respiratory equipment, medications, and care management in patients' homes.",
+    "estimated_revenue_range": "$100M-$250M",
+    "confidence": "medium",
+    "notes": "Acquired by Waud Capital Partners on August 25, 2021; headquarters reported as New Providence/Clark, NJ across different sources; revenue estimates vary across data providers (LeadIQ, Growjo, D&B)."
+  },
+  {
+    "name": "Jegs Automotive, LLC",
+    "pe_sponsor": "Greenbriar",
+    "industry": "Retail & Distribution",
+    "sector": "Automotive Aftermarket e-commerce retailer & distributor",
+    "description": "JEGS is a national online retailer and distributor of high-performance aftermarket auto parts and accessories, founded in 1960 and headquartered in Delaware, Ohio. The company sells over two million SKUs from hundreds of vendors through its e-commerce site (JEGS.com) and fulfillment operations near Columbus. In December 2021 Greenbriar Equity Group acquired a majority stake (announced February 24, 2022), with the Coughlin family retaining a minority ownership position.",
+    "estimated_revenue_range": "$100M-$500M",
+    "confidence": "medium",
+    "notes": "Majority stake acquired by Greenbriar Equity Group (transaction completed Dec 2021; announced Feb 24, 2022). Revenue range is an estimate from third-party sources; company has not publicly disclosed precise recent annual revenue in press releases."
+  },
+  {
+    "name": "Southern Graphics, Inc",
+    "pe_sponsor": "SVP Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Packaging Graphics & Prepress / Brand Consulting",
+    "description": "Southern Graphics, Inc. (also doing business as SGS / SGS & Co) is a Louisville, Kentucky\u2013based provider of packaging graphics, prepress services, and brand/creative solutions for consumer packaged goods companies and retailers. The company offers design-to-print services including prepress, imaging, packaging design, digital production workflows, and related brand consulting and analytics solutions across North America and internationally.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "PE sponsor ambiguity: user-specified 'SVP Capital' appears to refer to Strategic Value Partners (SVP Global), which is documented as acquiring SGS in November 2021 (Mergr, Austrian BWB filing). Company website: sgsco.com (branded SGS & Co). Headquarters: Louisville, KY. Employee counts in secondary sources vary (~2,400\u20133,200). Reported sale/recapitalization activity around 2021\u20132023; no recent public revenue figures found."
+  },
+  {
+    "name": "Wineshipping LLC",
+    "pe_sponsor": "Greenbriar Equity Group",
+    "industry": "Logistics & Transportation",
+    "sector": "Temperature-controlled DTC wine fulfillment & 3PL services",
+    "description": "Wineshipping LLC is a temperature-controlled, direct-to-consumer logistics and fulfillment provider serving wineries and alcoholic beverage brands across the United States. It operates a bi-coastal network of fulfillment and distribution centers offering temperature-controlled storage, bonded warehousing, inventory and order management, and expedited coast-to-coast delivery. Founded in 1998, the company was acquired by Greenbriar Equity Group in 2021.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Greenbriar Equity Group (2021); formerly backed by Endeavour/Endeavour Capital; headquartered in Napa, CA."
+  },
+  {
+    "name": "Electrical Source Holdings, LLC",
+    "pe_sponsor": "Greenbriar Equity Group",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Electrical & Telecommunications MRO Distribution",
+    "description": "Electrical Source Holdings is a specialty distributor of hard-to-find, need-it-now electrical and telecommunications MRO components (circuit breakers, fuses, motor controls, disconnects and other critical power components) serving commercial and industrial customers. The company operates multiple U.S. and Canadian distribution facilities, supports a wide set of OEM brands and product generations, and provides rapid fulfillment with technical sales support. Greenbriar Equity Group backed the company; Electrical Source was announced as acquired by Radwell International (CVC-backed) in 2022.",
+    "estimated_revenue_range": "$10M-$25M",
+    "confidence": "medium",
+    "notes": "Announced acquisition by Radwell International (CVC-backed) Aug 25, 2022; listed as exited from Greenbriar portfolio. Public revenue estimates vary between ~$7M and ~$12M to $10M-$25M across commercial databases."
+  },
+  {
+    "name": "Platinum Dermatology",
+    "pe_sponsor": "Sun Capital",
+    "industry": "Healthcare Services",
+    "sector": "Dermatology practice management / Group dermatology",
+    "description": "Platinum Dermatology (operating as Platinum Dermatology Partners) is a physician\u2011centric dermatology group practice and practice-management platform that partners with independent dermatology practices to provide business support (HR, IT, marketing, RCM, compliance) while preserving clinical autonomy. Headquartered in Dallas, TX, the company expanded via a June 2022 merger with West Dermatology and now operates over 100 locations and a provider network of approximately 170 physicians and 300+ total providers across the Southwestern U.S.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Merged with West Dermatology in June 2022 (transaction involved Sun Capital and Sterling Partners). Official operating name: 'Platinum Dermatology Partners'. Revenue not publicly disclosed. Headquarters: 9900 N. Central Expressway, Suite 500, Dallas, TX."
+  },
+  {
+    "name": "Wilson Electronics",
+    "pe_sponsor": "Trive Capital",
+    "industry": "Technology, Media & Telecom",
+    "sector": "Cellular signal boosters & in-building wireless solutions",
+    "description": "Wilson Electronics (home of weBoost and WilsonPro) designs, manufactures and sells cellular signal boosters, antennas and in-building wireless solutions for consumer, commercial, carrier and vehicle markets. Headquartered in St. George/Salt Lake City, UT, the company holds 250+ patents and has expanded its portfolio through acquisitions (e.g., Zinwave) and a broader push into private 5G and fiber-based wireless solutions.",
+    "estimated_revenue_range": "$50M-$100M",
+    "confidence": "medium",
+    "notes": "Acquired by Trive Capital (investment announced May 17, 2022). Operates brands weBoost and WilsonPro; acquired Zinwave (announced Jan 5, 2023) and later rebranded publicly as Wilson Connectivity (Oct 9, 2024). Revenue is not publicly disclosed; estimates from Growjo/LeadIQ range roughly $50M-$100M."
+  },
+  {
+    "name": "Total Power",
+    "pe_sponsor": "Trivest",
+    "industry": "Energy & Industrial Services",
+    "sector": "Commercial & Industrial Power Generation Solutions (generator sales, rentals, maintenance & service)",
+    "description": "Total Power (operating as Total PowerGen Solutions) is a Canada-based provider of commercial and industrial power generation solutions. The company supplies, services, and rents generators and related power continuity equipment, and offers maintenance and repair services and long-term service contracts across multiple provinces. Founded in 1959 and headquartered in Mississauga, Ontario, Total Power operates a national network of branches and a substantial rental fleet.",
+    "estimated_revenue_range": "$50M-$200M",
+    "confidence": "medium",
+    "notes": "Headquartered in Mississauga, Ontario; operates ~17 facilities across Canada; reported >450 employees, ~11,000 service contracts, 375-generator rental fleet at exit. Acquired by Audax Private Equity (announcement Sept 10, 2024; Trivest exit noted Nov 19, 2024). Revenue not publicly disclosed; estimate based on disclosed scale and industry comparables."
+  },
+  {
+    "name": "Worldwide Express",
+    "pe_sponsor": "CVC",
+    "industry": "Transportation & Logistics",
+    "sector": "Third-Party Logistics (3PL) \u2014 non-asset freight brokerage and parcel reseller",
+    "description": "Worldwide Express is a non-asset-based third-party logistics provider offering parcel, less-than-truckload (LTL), full truckload (FTL), and managed transportation services. It operates through a network of company-owned and franchise locations and is a major UPS non-retail reseller serving primarily small- and medium-sized businesses.",
+    "estimated_revenue_range": "$1B-$2B",
+    "confidence": "medium",
+    "notes": "Merged with GlobalTranz in 2021 in a CVC-led consortium; combined company reported ~ $4B systemwide revenue. Revenue estimate refers to Worldwide Express systemwide revenue approaching $2B as reported in 2021 and may have changed post-merger."
+  },
+  {
+    "name": "MGT of America Consulting, LLC",
+    "pe_sponsor": "Trivest",
+    "industry": "Professional Services / Consulting",
+    "sector": "Public sector (SLED) consulting & government technology",
+    "description": "MGT of America (MGT) is a national provider of advisory, technology, and performance-improvement solutions for state, local and education (SLED) clients. The firm delivers education, technology, data-analytics and management consulting services to public agencies, school districts, universities and philanthropic organizations. Trivest invested in MGT in early 2020; MGT was later sold to The Vistria Group in June 2023.",
+    "estimated_revenue_range": "$100M-$500M",
+    "confidence": "medium",
+    "notes": "Acquired by The Vistria Group on June 20, 2023; Trivest was a minority/non-control investor via TGIF in 2020. Multiple similarly-named entities exist online; this profile uses Trivest association to disambiguate."
+  },
+  {
+    "name": "CCMC",
+    "pe_sponsor": "Sun Capital",
+    "industry": "Healthcare",
+    "sector": "Primary Care / Value-Based Care (Medicare & Medicaid-focused clinics)",
+    "description": "Clinical Care Medical Centers (CCMC), formerly Miami Beach Medical Group, operates a network of primary care and multi-specialty clinics in Florida serving primarily Medicare and Medicaid populations. The company ran about 26 centers and served roughly 35,000 patients; it was acquired by a Sun Capital affiliate in December 2020 and rebranded. CCMC filed for Chapter 11 bankruptcy protection on October 13, 2024, with a reported proposed asset sale to an affiliate of Humana.",
+    "estimated_revenue_range": "$50M-$100M",
+    "confidence": "medium",
+    "notes": "Filed Chapter 11 on Oct 13, 2024; reported secured debt ~ $447.7M\u2013$481M in filings; proposed sale to Humana affiliate reported. Revenue estimate from third-party data providers; formerly Miami Beach Medical Group; Sun Capital acquisition in Dec 2020 (deal financed with KKR loans)."
+  },
+  {
+    "name": "Universal Woods, LLC",
+    "pe_sponsor": "HWP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Coated hard-surface substrates & industrial coatings (sublimation panels, mezzanine flooring)",
+    "description": "Universal Woods, LLC (operating as UW Solutions) manufactures high-performance, surface-coated substrates for dye-sublimation imaging (ChromaLuxe, Unisub brands) and engineered mezzanine flooring (ResinDek), and develops proprietary UV/EB coatings via R&D Coatings. The company serves graphics/personalization and industrial flooring markets globally from its headquarters in Louisville, KY.",
+    "estimated_revenue_range": "$50M-$100M",
+    "confidence": "medium",
+    "notes": "Rebranded to UW Solutions; PE sponsor HWP appears to refer to Heartwood Partners (invested 2019). Heartwood sold UW Solutions to Apogee Enterprises (announced Sep 25, 2024; completed Nov 4, 2024) for about $240M. Revenue/employee figures vary across data providers; estimates used to set confidence to medium."
+  },
+  {
+    "name": "National Seating and Mobility",
+    "pe_sponsor": "Cinven",
+    "industry": "Healthcare",
+    "sector": "Complex Rehabilitation Technology & Mobility Solutions",
+    "description": "National Seating & Mobility (NSM) is a North American provider of complex rehabilitation technology and mobility/accessibility solutions, offering customized wheelchairs, seating and positioning systems, home and vehicle accessibility products, and repair services. The company operates a network of 200+ locations across the U.S. and Canada and\u2014according to NSM\u2014employs about 2,600 staff serving approximately 300,000 clients annually. Headquartered in the Nashville/Franklin, Tennessee area, NSM was acquired by Cinven in October 2019.",
+    "estimated_revenue_range": "$300M-$500M",
+    "confidence": "medium",
+    "notes": "Acquired by Cinven (Oct 2019; reported purchase price ~$850M). Revenue range is an estimate from secondary data providers; NSM is private and does not publicly disclose full financials."
+  },
+  {
+    "name": "Reaction Biology Corp.",
+    "pe_sponsor": "Copeba",
+    "industry": "Healthcare & Life Sciences",
+    "sector": "Drug discovery CRO (kinase & epigenetics assay services)",
+    "description": "Reaction Biology is a preclinical contract research organization (CRO) founded in 2001 that provides biochemical, biophysical, and cell-based assay services to support early-stage drug discovery. The company is known for large kinase and epigenetic assay panels and operates research facilities in Malvern, PA (HQ) and sites in Germany.",
+    "estimated_revenue_range": "$5M-$50M",
+    "confidence": "medium",
+    "notes": "PE sponsor name provided as 'Copeba' (user input) \u2014 likely refers to Cobepa (Cobepa S.A.), which completed a growth investment/acquisition of Reaction Biology in March 2022. Revenue estimate based on disparate third-party data sources; figures vary across vendors."
+  },
+  {
+    "name": "Oscar W Larson Co",
+    "pe_sponsor": "Trive",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Petroleum & EV charging infrastructure services",
+    "description": "Founded in 1946 and headquartered in Clarkston, Michigan, Oscar W. Larson Co. (Oscar Larson) is an end-to-end equipment distributor and contractor that provides installation, testing, inspection, maintenance and repair services for fuel infrastructure and related customers. The company has expanded into electric vehicle (EV) charging and clean-energy infrastructure services and executed several add-on acquisitions while operating as a Trive Capital portfolio company.",
+    "estimated_revenue_range": "$150M-$200M",
+    "confidence": "medium",
+    "notes": "Acquired by Trive Capital (announced Feb 2, 2021); later consolidated into the OWL Services platform formed by Trive (announced Sept 26, 2022). Revenue range is an estimate based on third-party data sources (Growjo, Buzzfile, Compworth) and may vary."
+  },
+  {
+    "name": "HomeTown Services",
+    "pe_sponsor": "Center Oak",
+    "industry": "Consumer Services",
+    "sector": "Residential HVAC, plumbing & electrical maintenance & repair",
+    "description": "HomeTown Services is a Tulsa, OK\u2013based provider of residential HVAC, plumbing, electrical and other home repair, replacement and maintenance services serving the Southern U.S. The company reports servicing over 80,000 club members annually and logged 350,000+ service calls last year, supported by 1,300+ team members and 1,000+ vehicles. CenterOak Partners lists HomeTown Services as an active platform in its consumer services portfolio.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Active CenterOak Partners portfolio company; revenue not publicly disclosed; headquartered in Tulsa, OK; website: hometownservices.com"
+  },
+  {
+    "name": "Rubicon Bakers",
+    "pe_sponsor": "Trive",
+    "industry": "Food & Beverage",
+    "sector": "Commercial Bakery \u2014 retail & private-label cakes, cupcakes, muffins, pies",
+    "description": "Founded in 1993 and headquartered in Richmond, California, Rubicon Bakers is a Certified B Corporation that scratch-bakes cakes, cupcakes, muffins, pies and other dessert products for retailers and private-label customers nationwide. The company operates as a social enterprise, hiring and training people who have faced barriers to employment and offering vegan/plant-based product lines. Trive Capital completed a partnership/recapitalization with Rubicon in 2020 to support growth and scaling of production.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Trive recapitalization announced Jul 22, 2020; Certified B Corporation; HQ Richmond, CA."
+  },
+  {
+    "name": "Cafe Rio Inc",
+    "pe_sponsor": "Freeman Spogoli",
+    "industry": "Restaurants & Foodservice",
+    "sector": "Fast-Casual Mexican Restaurants",
+    "description": "Founded in 1997 and headquartered in Salt Lake City, Cafe Rio is a fast-casual Mexican restaurant chain known for made-from-scratch, customizable burritos, tacos, salads and other regional Mexican dishes. The company operates company-owned restaurants across multiple U.S. states and emphasizes fresh ingredients and in-house preparation. Freeman Spogli & Co. acquired a majority stake in Cafe Rio in September 2017.",
+    "estimated_revenue_range": "$100M-$500M",
+    "confidence": "medium",
+    "notes": "Acquired by Freeman Spogli & Co. in September 2017; PE sponsor name provided as 'Freeman Spogoli' (common misspelling). Exact revenue not publicly disclosed; estimate based on reported unit counts and typical fast-casual AUVs."
+  },
+  {
+    "name": "Klick Inc.",
+    "pe_sponsor": "GTCR",
+    "industry": "Marketing & Advertising",
+    "sector": "Digital Health Marketing & Life Sciences Commercialization",
+    "description": "Klick Inc. (branded as Klick Health / Klick Group) is a Toronto-based digital health marketing and life sciences commercialization agency that provides medical communications, brand strategy, digital marketing, data analytics, and technology services to pharmaceutical, biotech, and healthcare clients. Founded in 1997, Klick operates globally through multiple affiliated businesses and offices in North America, Europe, Latin America, and Asia.",
+    "estimated_revenue_range": "$100M-$200M",
+    "confidence": "high",
+    "notes": "GTCR was a minority investor; GTCR sold a minority stake that was bought out by GIC and Linden Capital Partners in mid-2025 while the company\u2019s co-founders retained controlling ownership. Sources report annual revenues of ~ $130M (2025 reporting)."
+  },
+  {
+    "name": "Valor Healthcare, Inc.",
+    "pe_sponsor": "Trive",
+    "industry": "Healthcare Services",
+    "sector": "Veterans Affairs CBOCs & Federal Healthcare Services",
+    "description": "Valor Healthcare develops, operates, and manages community-based outpatient clinics (CBOCs) that deliver primary care, behavioral health, telehealth, diagnostics, and occupational health services to U.S. veterans under contract with the U.S. Department of Veterans Affairs. Founded in 2004 and headquartered in Addison (Dallas), Texas, the company has expanded organically and via add-on acquisitions (e.g., CRAssociates, Mission Critical Psychological Services).",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Trive Capital (Sept 1, 2020). Operated 35+ VA CBOCs at time of acquisition and has grown via add-ons to 50+ locations; revenue not publicly disclosed\u2014third-party estimates vary."
+  },
+  {
+    "name": "Hy-Tek Material Handling",
+    "pe_sponsor": "Dunes Point Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Material Handling Automation & Systems Integration",
+    "description": "Hy-Tek Material Handling is a warehouse and material handling systems integrator providing engineering, design, implementation, and software services for automated material handling solutions. Headquartered in Columbus, Ohio, it offers industrial equipment, conveyors, lift trucks, and integrated systems to customers across ecommerce, retail, 3PL, parcel, manufacturing, and other industries. The company was combined with WorldSource and organized as Hy-Tek Holdings following an investment by Dunes Point Capital.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired/controlled by Dunes Point Capital (investment announced March 24, 2021); combined with WorldSource to form Hy-Tek Holdings; headquartered in Columbus, OH; reported ~500+ employees per Dunes Point materials."
+  },
+  {
+    "name": "RANDYS WorldWide, Inc",
+    "pe_sponsor": "Greenbriar Equity Group",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Automotive Aftermarket Drivetrain & Remanufacturing",
+    "description": "RANDYS WorldWide is a manufacturer, remanufacturer, and distributor of drivetrain and aftermarket automotive parts (differentials, gears, axles, transfer cases, and related components). The company markets multiple in-house brands (e.g., Yukon Gear & Axle, USA Standard Gear, Zumbrota) and serves installers, retailers, remanufacturers and automotive enthusiasts across the U.S. and internationally. RANDYS completed a majority recapitalization with Greenbriar Equity Group (with reinvestment by Tailwind Capital) in late 2022.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Majority recapitalization by Greenbriar Equity Group announced Dec 1, 2022; previously owned by Tailwind Capital. Public revenue estimates vary widely across third-party sources (conflicting ranges reported); verify with company/financial filings if revenue precision is required."
+  },
+  {
+    "name": "K-1 Packaging Group",
+    "pe_sponsor": "Dunes Point Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Custom consumer packaging (folding cartons, rigid boxes, labels, thermoformed packaging) and contract packaging (nutraceuticals)",
+    "description": "K-1 Packaging Group is a designer and provider of custom turnkey packaging solutions serving primarily the wellness and personal care markets. The company operates multiple manufacturing facilities in California and maintains a procurement/quality office in Shenzhen, China; it was acquired by Dunes Point Capital on October 11, 2022.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Dunes Point Capital (announced Oct 11, 2022). K-1 and Everest Packaging/ Everest Formulations were acquired together. Dunes Point press release lists ~220 employees and three California manufacturing facilities; revenue not disclosed (some third-party sources estimate $250M-$500M but unverified)."
+  },
+  {
+    "name": "High Bar Brands",
+    "pe_sponsor": "HWP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Heavy-Duty Truck & Trailer Components (Automotive Aftermarket)",
+    "description": "High Bar Brands is a manufacturer and distributor of branded aftermarket products and components for heavy-duty trucks and trailers, operating a portfolio of established brands including Minimizer, Premier Manufacturing, Dieter's Accessories, Panelite, and Viking Sales. Headquartered in Owatonna, Minnesota, the company serves aftermarket distributors, dealers, and OEMs across North, Central, and South America from multiple manufacturing facilities.",
+    "estimated_revenue_range": "$25M-$100M",
+    "confidence": "medium",
+    "notes": "Heartwood Partners (HWP) exited its investment in High Bar Brands on Dec 19, 2023; the company was acquired by Sentinel Capital Partners (announced Dec 20, 2023). Public sources provide conflicting revenue estimates (Owler suggests $5-25M; some databases estimate up to ~$100M), so revenue range is an approximate estimate."
+  },
+  {
+    "name": "Vanguard Packaging",
+    "pe_sponsor": "Dunes Point Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Corrugated Packaging & Point-of-Purchase Displays",
+    "description": "Vanguard Packaging (Vanguard Companies) designs and manufactures high-graphic corrugated displays, retail-ready and industrial packaging, and provides assembly, logistics and fulfillment services. The company offers large-format digital printing, creative/design services, program management and retail merchandising solutions for major brands and retailers. Vanguard is headquartered in Kansas City, MO with sales/design offices in Maryland Heights, MO and Bentonville, AR.",
+    "estimated_revenue_range": "$200M-$300M",
+    "confidence": "medium",
+    "notes": "Dunes Point Capital acquired a majority stake in Aug 2019 (press release). Revenue estimate based on industry reporting that Vanguard generated over $200M in annual billings; employee counts and exact revenues vary across sources."
+  },
+  {
+    "name": "Shearer Supply",
+    "pe_sponsor": "Investcorp",
+    "industry": "Wholesale Distribution",
+    "sector": "HVAC Equipment & Parts Distribution",
+    "description": "Founded in 1983 and headquartered in Dallas/Farmers Branch, TX, Shearer Supply is a replacement-focused independent distributor of residential and commercial HVAC equipment, parts and supplies serving local contractors across the southern United States. The company operates a multi-branch platform (20+ branches) serving 5,500+ contractor customers and offers core product lines including American Standard, Ameristar and Samsung plus parts and accessories from 300+ vendors.",
+    "estimated_revenue_range": "$25M-$100M",
+    "confidence": "medium",
+    "notes": "Majority investment by Investcorp announced April 11, 2023; prior sponsor PNC Riverarch Capital remains a minority investor; Shearer acquired Climatic Comfort Products (CCP) in April 2024 to expand into the Southeast."
+  },
+  {
+    "name": "Imprimus",
+    "pe_sponsor": "HWP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Labels & Flexible Packaging (printed labels, folding cartons, shrink sleeves, pouches)",
+    "description": "Imprimus is a U.S.-based converter and printer of labels and flexible packaging serving food & beverage, wine & spirits, health & beauty, and consumer packaged goods markets. The company operates multiple production sites across the U.S. and offers digitally printed labels, folding cartons, shrink sleeves, pouches and related packaging services. Imprimus rebranded several acquired label businesses to operate under the Imprimus Labels & Packaging platform.",
+    "estimated_revenue_range": "$10M-$100M",
+    "confidence": "medium",
+    "notes": "Acquired by Heartwood Partners (Heartwood Partners, HWP) on November 1, 2021; formerly included All-American Label and Packaging and others; operating sites in CA, OH, TX, TN; revenue estimate inferred from headcount (51-100) and sector; sources: Imprimus website, Mergr, Labels & Labeling, Crunchbase"
+  },
+  {
+    "name": "Chromascape",
+    "pe_sponsor": "Heartwood Partners (HWP)",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Specialty Colorants & Additives (pigments, dispersions)",
+    "description": "ChromaScape is a U.S.-based manufacturer of specialty colorants, pigments, dispersions and additives serving landscaping, building materials, paper/packaging, printing inks, rubber, asphalt sealants and food-contact applications. The company offers product lines/brands including Amerimulch, Solution Dispersions, ChromaPave and Innotech and operates manufacturing sites in Ohio, Kentucky, Texas and Arizona. In 2023 ChromaScape (a Heartwood Partners portfolio company) acquired Kemira\u2019s colorants business for the Americas and EMEA, expanding its scale (the acquired business was reported at ~EUR 50M revenue).",
+    "estimated_revenue_range": "$50M-$200M",
+    "confidence": "medium",
+    "notes": "Acquired Kemira\u2019s colorants business (Americas & EMEA) in 2023; PE sponsor: Heartwood Partners; Headquartered in Twinsburg, OH."
+  },
+  {
+    "name": "Microcare, LLC",
+    "pe_sponsor": "HWP",
+    "industry": "Specialty Chemicals & Manufacturing",
+    "sector": "Critical cleaning fluids & precision cleaning solutions (electronics, medical devices, fiber optics, industrial maintenance)",
+    "description": "MicroCare, LLC develops, manufactures, and sells high\u2011purity cleaning, coating, lubrication, and sterilization fluids plus related dispensing tools for precision/critical cleaning applications across electronics, medical device manufacturing, fiber optics, and industrial markets. Headquartered in New Britain, Connecticut, the company has expanded globally and through add\u2011on acquisitions (e.g., Certol International and Infection Control Technologies) to broaden its healthcare and infection\u2011prevention offerings.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "HWP likely refers to Heartwood Partners (Heartwood invested on May 28, 2020 and announced an exit on Aug 13, 2025). Acquisitions include Certol International (Aug 2021) and Infection Control Technologies (2023). Revenue not publicly disclosed."
+  },
+  {
+    "name": "Artisant Lane",
+    "pe_sponsor": "HWP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Residential & Contract Upholstered Furniture Manufacturing (multi-brand furniture collective)",
+    "description": "Artisant Lane is a Dallas-based furniture collective that designs, manufactures, and sells high-end custom and made-to-order upholstered furniture across residential, contract, hospitality, and direct-to-consumer channels. The company operates a portfolio of brands including American Leather, BenchMade Modern, LEE Industries, Brookline (and True Modern), and emphasizes U.S. manufacturing, operational excellence, and digital/DTC capabilities.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "PE sponsor 'HWP' interpreted as Heartwood Partners based on press coverage and PE directories; employment reported ~1,300. No public revenue disclosure found. Sources: Artisant Lane website, Business Wire press release (Apr 11, 2023), Furniture Today, private equity directories."
+  },
+  {
+    "name": "S&S Truck Parts Inc",
+    "pe_sponsor": "Investcorp",
+    "industry": "Wholesale Distribution",
+    "sector": "Aftermarket Heavy-Duty Truck Parts Distribution",
+    "description": "Independent distributor of private-label and branded aftermarket heavy- and medium-duty truck parts and accessories, serving OEMs, OE dealerships, independent warehouse distributors and service shops across North America. Headquartered in Schaumburg, IL, the company operates multiple distribution centers (including a reported 111,000 sq ft primary PDC) and has over 1,600 customers. Investcorp announced an acquisition/partnership with S&S on March 8, 2022.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Investcorp (announced March 8, 2022). Company operates as S&S Truck Parts / S&S Truck Parts, LLC; headquartered in Schaumburg, IL (sandstruck.com). Public sources have conflicting revenue/employee data (estimates range from <$25M to ~$250M) and inconsistent founding years (sources cite 1952, 1964, 2007) \u2014 revenue not reliably determined."
+  },
+  {
+    "name": "Greenrise Technologies",
+    "pe_sponsor": "Boyne Capital",
+    "industry": "Infrastructure Services & Building Products",
+    "sector": "Green stormwater infrastructure and green roof systems",
+    "description": "Greenrise Technologies is a full-service green stormwater infrastructure firm that designs, supplies, installs, and maintains green roof systems, engineered growing media, stormwater control measures (SCMs), and erosion control/SWPPP compliance services for commercial real estate owners, developers, engineers, and municipalities. Founded in 2006 and headquartered in Readyville/Nashville, Tennessee, the company operates regional offices and serves projects across the U.S.\nBoyne Capital made a growth equity investment in 2017 to support the company\u2019s growth and add-on acquisition strategy.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Boyne Capital growth equity investment (Aug 2017); HQ Readyville/Nashville, TN; founded 2006; sources: company website, Boyne Capital portfolio, LinkedIn."
+  },
+  {
+    "name": "NativeSeed",
+    "pe_sponsor": "HWP",
+    "industry": "Agriculture & Forestry",
+    "sector": "Native seed production, processing & distribution (restoration/erosion control seed)",
+    "description": "NativeSeed (appearing as NativeSeed Group) is a vertically integrated collection of native seed companies that produces, processes and distributes native and restoration seed and erosion-control products across multiple Western U.S. states. It serves federal and state agencies, departments of transportation, contractors, environmental landscapers, NGOs, energy companies and retail customers, and operates farming, processing/cleaning facilities and regional distribution points.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Primary public information located on LinkedIn (job postings and company posts) identifying 'NativeSeed Group' and regional operations in CA, WA, UT, MT, NV, CO, KS, NE, AZ. Could not find an independent corporate website or public revenue data during search; PE sponsor 'HWP' was provided but not confirmed in public sources; name may be ambiguous (use PE sponsor to disambiguate)."
+  },
+  {
+    "name": "RoadSafe Traffic Systems",
+    "pe_sponsor": "Investcorp",
+    "industry": "Infrastructure & Industrial Services",
+    "sector": "Traffic control, pavement marking & work zone safety products",
+    "description": "RoadSafe Traffic Systems is a national provider of traffic control, pavement marking services and work-zone safety products for heavy highway, utility, railroad, airport and government customers. The company operates a branch-based network across the United States (more than 50 locations) and has completed multiple add-on acquisitions since entering a strategic partnership with Investcorp and Trilantic North America in 2021.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired by Investcorp and Trilantic North America in May 2021; company operates 40\u201350+ branches and reported ~1,600+ employees in PE press releases. Revenue estimates vary across sources; flagged as Unknown."
+  },
+  {
+    "name": "Tarter Gate Company, LLC",
+    "pe_sponsor": "Platinum Equity",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Farm & Ranch Equipment Manufacturing",
+    "description": "Founded in 1945 as Tarter Gate Company and now operating as Tarter Farm and Ranch Equipment, the company manufactures animal gates, fencing solutions, tractor implements, planters, fire rings, and animal feeding and handling equipment for ranchers, institutional farms and retail channels. It operates production and distribution facilities in Kentucky and Utah and sells products through retail channels and as an OEM supplier.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired (majority interest) by Platinum Equity announced April 3, 2023; now operating as Tarter Farm and Ranch Equipment; founded 1945."
+  },
+  {
+    "name": "Sargeant & Greenleaf Inc",
+    "pe_sponsor": "Opengate",
+    "industry": "Manufacturing & Industrial",
+    "sector": "High-security locks & locking systems (safes, vaults, ATMs, SCIFs)",
+    "description": "Sargent & Greenleaf (S&G) designs and manufactures mechanical and electronic high-security locks and locking systems used in safes, vaults, ATMs, and sensitive facilities (SCIFs). Founded in 1857 and headquartered in Nicholasville, Kentucky, the company also operates related brands including Delaney Hardware and Premier Steel Doors. S&G was owned by OpenGate Capital following a 2019 carve-out from Stanley Black & Decker and was announced sold to ASSA ABLOY in December 2025.",
+    "estimated_revenue_range": "$25M-$75M",
+    "confidence": "high",
+    "notes": "User provided name misspelled (correct name: Sargent & Greenleaf). OpenGate acquired S&G in May 2019; OpenGate announced sale of S&G to ASSA ABLOY Dec 2025. 2024 sales reported ~ $45M. Includes Delaney Hardware / Premier Steel Doors acquisitions."
+  },
+  {
+    "name": "Nwestco",
+    "pe_sponsor": "Guardian",
+    "industry": "Industrial Services",
+    "sector": "Fuel & Car Wash Equipment Services (maintenance, compliance, installation)",
+    "description": "Nwestco is a provider of fuel station and car wash equipment along with mission-critical maintenance, compliance, and installation services across the western and Midwest U.S. The company serves retail, commercial, governmental, and industrial customers through a multi-branch field-service network and has pursued growth via add-on acquisitions under Guardian's ownership.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Guardian Capital Partners (announced June 15, 2023). Multiple add-on acquisitions since Guardian ownership (e.g., Palmetto Environmental Group Oct 2023; Arkoma Services; Petro West Jul 31, 2025; IDECO-NV 2025). Branch/employee counts reported variably (Business Wire cited 11 branches and 100+ technicians; company site/press releases indicated expansion to ~18 branches and ~360 employees by 2025)."
+  },
+  {
+    "name": "QualDerm",
+    "pe_sponsor": "BayPine",
+    "industry": "Healthcare Services",
+    "sector": "Dermatology Practice Management & Skin Care Services",
+    "description": "QualDerm Partners is a dermatology practice management and services organization that partners with dermatologists and skin care providers to provide management support, access to capital, and operational resources. It supports clinical and aesthetic dermatology, skin cancer care, pathology and plastic surgery across affiliated practices, operating ~158 practices in 17 states and serving ~120,000 patients monthly (per company website). BayPine acquired QualDerm on November 1, 2022.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired by BayPine on Nov 1, 2022 (per Mergr). Company website reports ~158 practices in 17 states and ~120,000 patients/month. Third-party data providers show widely divergent revenue estimates (ranging from <$1M to ~$70M), so revenue is marked Unknown."
+  },
+  {
+    "name": "CAM",
+    "pe_sponsor": "Cross Rapids",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Industrial maintenance & turnarounds (operations & maintenance, small capital projects)",
+    "description": "CAM (operating as CAM Industrial Solutions) provides industrial maintenance, turnarounds/outage services, preventative and corrective maintenance, and small capital construction and operations & maintenance services for refineries, chemical plants, power and resource-processing facilities across the U.S. and Canada. The company was formed following Worley Limited's divestiture of its maintenance, turnaround and power services group and is backed by Cross Rapids (Cross Rapids Capital).",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired from Worley Limited (transaction announced May 26, 2023). Reported employee counts vary (~4,000\u20135,000). Revenue not publicly disclosed. PE sponsor referenced publicly as Cross Rapids Capital; original query used 'Cross Rapids' (used here)."
+  },
+  {
+    "name": "Somafina",
+    "pe_sponsor": "HWP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Nutraceutical contract manufacturing (dietary supplements: gummies, capsules, powders, liquids, tablets)",
+    "description": "Somafina is a full-service nutraceutical contract manufacturer and brand builder that develops, formulates and manufactures dietary supplements across multiple delivery formats (gummies, capsules, powders, liquids and tablets). The company provides R&D, flavoring, in-house testing, packaging and private-label services and operates GMP- and industry-certified manufacturing facilities. Heartwood Partners (HWP) invested in Somafina in September 2023 to support growth and capacity expansion.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired/invested in by Heartwood Partners (announcement Sep 26, 2023). Multiple facility locations referenced (Georgia and Utah); some sources list HQ as Cedartown/Alpharetta, GA and LinkedIn lists Layton, UT \u2014 location appears to include multiple sites."
+  },
+  {
+    "name": "PerTronix Inc",
+    "pe_sponsor": "Charger Investment Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Performance Automotive Aftermarket (Ignition, Exhaust & Fuel Systems)",
+    "description": "PerTronix is an automotive performance-parts company known for electronic ignition systems and a portfolio of performance brands spanning ignition, exhaust and fuel systems. Headquartered in San Dimas, CA (legal listings also show PerTronix/Pertronix, LLC), the business includes brands such as PerTronix Ignition, Aeromotive Fuel Systems, Taylor Cable, Doug's Original Headers, JBA Performance Exhaust and others. Charger Investment Partners acquired PerTronix in December 2021; the PerTronix portfolio was later unified under The Aeromotive Group identity in 2023.",
+    "estimated_revenue_range": "$10M-$50M",
+    "confidence": "medium",
+    "notes": "Acquired by Charger Investment Partners (Dec 3, 2021); portfolio later presented as The Aeromotive Group (Aug 2023). Legal entity appears as Pertronix, LLC in some databases (possible address variations: San Dimas, CA and Overland Park, KS)."
+  },
+  {
+    "name": "Robinson Helicopter Co",
+    "pe_sponsor": "Trive",
+    "industry": "Aerospace",
+    "sector": "Light civil helicopter manufacturing",
+    "description": "Robinson Helicopter Company (RHC), founded in 1973 and based in Torrance, California, designs, manufactures, and supports light civilian helicopters, including the R22, R44, and R66. The company provides OEM and aftermarket services and in April 2024 expanded into uncrewed systems by acquiring Ascent AeroSystems.",
+    "estimated_revenue_range": "$100M-$500M",
+    "confidence": "medium",
+    "notes": "PE sponsor mismatch: no public evidence that Trive (Trive Capital) owns or sponsors Robinson Helicopter Company as of Feb 24, 2026; company appears privately family-owned. Revenue estimate based on public sources (Wikipedia lists ~$200M). Acquisition of Ascent AeroSystems announced April 23, 2024."
+  },
+  {
+    "name": "TAK Communications",
+    "pe_sponsor": "Platinum Equity",
+    "industry": "Telecommunications",
+    "sector": "Fiber & broadband network deployment services (last-mile construction, drops, fulfillment, maintenance, design & engineering)",
+    "description": "TAK Communications is a national provider of communications and broadband infrastructure services, offering last-mile fiber and cable drop construction (aerial and underground), network maintenance, new-build construction, on-premises fulfillment and residential/commercial installations. Founded in 2004 and headquartered in Sioux Falls, South Dakota, the company operates across 40+ states and provides end-to-end project management, engineering, construction, and door-to-door sales/fulfillment for broadband and telecom customers.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Platinum Equity announced a significant investment on March 22, 2024; financial terms not disclosed. Headquartered in Sioux Falls, SD; founded 2004 by Micah Mauney. Revenue not publicly disclosed."
+  },
+  {
+    "name": "Thermal Concepts",
+    "pe_sponsor": "Trivest",
+    "industry": "Construction & Building Services",
+    "sector": "Commercial HVAC & Building Controls Services",
+    "description": "Thermal Concepts is a provider of commercial and industrial HVAC installation, maintenance, repair, refrigeration, sheet-metal fabrication and building automation/control services. Founded in 1983 and headquartered in Davie, Florida, the company has grown via organic work and add-on acquisitions to serve commercial, industrial and mission-critical facilities across Florida and Georgia.",
+    "estimated_revenue_range": "$30M-$100M",
+    "confidence": "medium",
+    "notes": "Owned by Trivest Partners and Halmos Capital (acquired May 31, 2022). Public revenue estimates conflict across sources (Growjo, Buzzfile, company blog)."
+  },
+  {
+    "name": "Venturi Supply",
+    "pe_sponsor": "Trive",
+    "industry": "Manufacturing & Industrial",
+    "sector": "PVF (Pipe, Valves & Fittings) Distribution and Value-Added Industrial Supplies",
+    "description": "Venturi Supply is a value-added distributor of pipe, valves, fittings (PVF), engineered products, and industrial supplies. Formed by Trive Capital through a roll-up of six PVF distributors in 2024 and headquartered in Phoenix, AZ, the company operates approximately 42 locations across the United States. Venturi provides fabrication, valve actuation, pipe coating and inspection, vendor-managed inventory, and warehouse management services to energy, infrastructure, fire protection, and industrial end markets.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Formed by Trive Capital in 2024 via the acquisitions of BPS Supply Group, Producers Supply Company, Tri Star Industrial, Ameripipe Supply, Industrial & Construction Enterprises, and Albuquerque Pipe & Pump Supply. Headquartered in Phoenix, AZ; ~42 locations. Subsequent acquisitions reported (e.g., Monumental Supply, Cohn & Gregory). Revenue not publicly disclosed."
+  },
+  {
+    "name": "Revature",
+    "pe_sponsor": "Investcorp",
+    "industry": "Information Technology & Services",
+    "sector": "Technology Talent Development & IT Staffing (software engineering training & placement)",
+    "description": "Revature hires recent U.S. college graduates and provides no-cost, immersive software training before placing them on projects for corporate and government clients. The company operates as a technology talent development and IT staffing firm headquartered in Reston, Virginia, and partners with universities and enterprises to supply trained software engineers. Investcorp acquired a controlling stake in Revature in February 2019.",
+    "estimated_revenue_range": "$100M-$500M",
+    "confidence": "medium",
+    "notes": "Investcorp acquired controlling stake in Feb 2019; exact revenue not publicly disclosed\u2014estimate based on employee counts and third-party data (Crunchbase, Growjo)."
+  },
+  {
+    "name": "Premium Guard",
+    "pe_sponsor": "Trive Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Automotive aftermarket filtration manufacturing & distribution",
+    "description": "Premium Guard Inc. (PGI) designs, manufactures, and distributes aftermarket automotive filtration products \u2014 including oil, air, cabin, fuel, and transmission filters \u2014 and supplies branded and private-label filter programs to retailers, distributors, dealerships, and quick-lube service centers. Founded in 1996, the company has grown through acquisitions (notably IPC Global) and partnered with Trive Capital in 2022 to fund expansion and distribution capabilities.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Trive Capital partnership announced January 2022; completed acquisition of IPC Global. Headquarters listed as New York historically; company operates major distribution center(s) in Memphis, TN. Revenue not publicly disclosed."
+  },
+  {
+    "name": "Breg",
+    "pe_sponsor": "HPS Investment Partners",
+    "industry": "Medical Devices",
+    "sector": "Orthopedic Bracing & Cold Therapy Devices",
+    "description": "Breg, Inc. designs, manufactures and markets orthopedic bracing, cold therapy devices, and integrated practice solutions for sports medicine and joint rehabilitation. The company serves orthopedic clinics, surgeons and rehabilitation providers and is headquartered in Carlsbad, California.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Breg's corporate site lists Mayu Sris (a Managing Director at HPS Investment Partners) as a board director, indicating HPS board-level involvement. Historically Breg was acquired by Water Street Healthcare Partners in 2012; I did not find a public press release confirming a full acquisition by HPS, so ownership status is ambiguous."
+  },
+  {
+    "name": "Genova Diagnostics",
+    "pe_sponsor": "LLCP (Levine Leichtman Capital Partners)",
+    "industry": "Healthcare & Medical Diagnostics",
+    "sector": "Specialty Clinical Laboratory Services (functional diagnostics, microbiome, genomics)",
+    "description": "Genova Diagnostics, founded in the mid-1980s and headquartered in Asheville, NC, is a global specialty clinical laboratory offering over 125 diagnostic assessments focused on digestive, metabolic, immunology, endocrine and other physiologic areas. The company uses a systems-based approach and provides well-known tests such as GI Effects and NutrEval and newer offerings like Microbiomix and genomics-informed panels to support personalized diagnosis and treatment of chronic disease. Levine Leichtman Capital Partners (LLCP) acquired Genova in November 2013.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired by Levine Leichtman Capital Partners (LLCP) Nov 13, 2013; headquartered in Asheville, NC; notable tests include GI Effects and NutrEval; revenue not publicly disclosed; PE sponsor provided used to disambiguate."
+  },
+  {
+    "name": "Kamik",
+    "pe_sponsor": "TorQuest Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Branded & private-label footwear (outdoor/winter/rain boots) and apparel",
+    "description": "Kamik is a Canadian designer, manufacturer and wholesaler of Kamik-branded and private-label footwear and apparel, founded in 1898. The company makes winter boots, rain boots, slippers, sandals and related apparel for men, women and children and operates manufacturing and distribution facilities across Quebec, Ontario and New Hampshire. TorQuest Partners completed an initial investment in Kamik in 2021 to support the company\u2019s next phase of growth; Kamik reports ~400 employees and distribution in over 10,000 outlets across 40+ countries.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Stake purchase/investment by TorQuest Partners in 2021; revenue not publicly disclosed."
+  },
+  {
+    "name": "Christianbook",
+    "pe_sponsor": "Nonantum Capital Partners",
+    "industry": "Retail & E-commerce",
+    "sector": "Religious/Christian Retail (Books, Bibles, Media, Homeschool Products, Gifts) - Catalog & Online",
+    "description": "Christianbook (formerly Christian Book Distributors) is a Peabody, Massachusetts-based catalog and e-commerce retailer offering a wide selection of Christian products\u2014books, Bibles, homeschool curriculum, music, media, church supplies, and gifts. Founded in 1978, the company operates a large distribution center and mail/catalog business alongside its online store (christianbook.com) and serves millions of customers annually. The business was recently recapitalized by Nonantum Capital Partners to support growth and operational investment.",
+    "estimated_revenue_range": "$50M-$150M",
+    "confidence": "medium",
+    "notes": "Recapitalized by Nonantum Capital Partners (private transaction). Company is privately held; third-party revenue estimates vary across sources."
+  },
+  {
+    "name": "Epika",
+    "pe_sponsor": "Trivest",
+    "industry": "Transportation & Logistics",
+    "sector": "Commercial fleet maintenance & mobile repair services",
+    "description": "Epika (Epika Fleet Services, Inc.) is a national provider of outsourced fleet maintenance and repair solutions, specializing in mobile-first preventative maintenance and repair for medium- and heavy-duty truck and trailer fleets. Founded in 2016, the company scaled via organic growth and multiple add-on acquisitions to operate across nearly 40 states with a large mobile technician network and in-shop capabilities. Epika was a Trivest portfolio company (Trivest made a minority investment in Dec 2018) and expanded its platform and infrastructure under that partnership.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Trivest completed a minority investment in December 2018. Majority stake sold to an Ares private equity fund on April 21, 2025; headquartered in Nashville, TN; operated in nearly 40 states and served >2,000 customers at time of sale."
+  },
+  {
+    "name": "User-Friendly Home Services",
+    "pe_sponsor": "VSS",
+    "industry": "Home & Building Services",
+    "sector": "Residential HVAC & Plumbing Platform (roll-up)",
+    "description": "User-Friendly Home Services is a Texas-based platform that acquires and operates local HVAC and plumbing companies across multiple U.S. states. It provides residential heating, ventilation, air conditioning and plumbing services through partner brands while offering centralized back-office, marketing and M&A support to accelerate growth.",
+    "estimated_revenue_range": "$40M-$100M",
+    "confidence": "medium",
+    "notes": "Headquartered in The Woodlands, TX; CEO Bruce Howard. Multiple press and industry sources document a roll-up strategy and acquisitions (e.g., AccuTemp, Falls Heating & Cooling, Len\u2019s). No public evidence found linking the PE sponsor label 'VSS' to this company; 'VSS' may refer to other firms (e.g., VSS Capital Partners previously acquired an unrelated User Friendly Media in 2003). Revenue estimate based on Localogy reporting ~ $40M top line for platform (2023) and public acquisition announcements."
+  },
+  {
+    "name": "SaVida",
+    "pe_sponsor": "Council Capital",
+    "industry": "Healthcare Services",
+    "sector": "Outpatient Addiction Treatment (Medication-Assisted Treatment)",
+    "description": "SaVida (operating as SaVida Health) provides outpatient addiction treatment services focused on medication-assisted treatment using FDA-approved medications combined with counseling, toxicology testing, and case management. The company operates a multi-site network of outpatient clinics treating opioid and alcohol use disorders across several U.S. states.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Council Capital in 2017; operates as SaVida Health (savidahealth.com)."
+  },
+  {
+    "name": "Douglas Machines",
+    "pe_sponsor": "LLCP",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Commercial cleaning & sanitizing equipment (industrial washers)",
+    "description": "Manufacturer of automated commercial and industrial cleaning and sanitizing equipment (e.g., tunnel washers, rotary batch washers, rack/pan/utensil washers, bin/barrel/lug washers) serving food, bakery, pet food, nutraceutical and industrial end-markets. Founded in 1979 and headquartered in Clearwater, FL, the company sells engineered washing systems and aftermarket parts/service support. The business was previously recapitalized in partnership with CNL Strategic Capital and an affiliate of Levine Leichtman (LLCP).",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "high",
+    "notes": "Investment announced Oct 8, 2021 in partnership with CNL Strategic Capital; SEC filing reports trailing twelve months revenue ~$27.7M as of Sept 30, 2024; announced acquisition by Sani-Matic on Aug 14, 2025."
+  },
+  {
+    "name": "O2B Kids",
+    "pe_sponsor": "Spire Capital",
+    "industry": "Education & Childcare",
+    "sector": "Early childhood education & preschool operator",
+    "description": "O2B Kids is a provider of early childhood education and enrichment programs (preschool, infant/toddler care, afterschool, summer camp and family membership classes) founded in 1998 and headquartered in Gainesville, Florida. The company operates and acquires branded preschools across multiple U.S. states, uses a proprietary curriculum and technology stack, and has pursued geographic expansion through acquisitions and new builds. Spire Capital invested in O2B Kids in October 2018 and the company has completed add-on acquisitions such as Children of Tomorrow (2022) and Bright Start Academy (2023).",
+    "estimated_revenue_range": "$50M-$100M",
+    "confidence": "medium",
+    "notes": "Active Spire Capital portfolio company (initial investment Oct 2018). Revenue is an external estimate (Growjo ~ $86M); exact revenue not publicly disclosed. Recent add-ons: Children of Tomorrow (Jan 25, 2022), Bright Start Academy (Sep 20, 2023)."
+  },
+  {
+    "name": "Royal Food Service",
+    "pe_sponsor": "Trilantic Capital Partners",
+    "industry": "Food & Beverage",
+    "sector": "Fresh produce & dairy distribution (Foodservice distribution)",
+    "description": "Atlanta-based processor and distributor of fresh produce and dairy products serving restaurants, schools and colleges, and wholesale/retail customers across the Southeast U.S. Operates under the Royal/Royal Fresh Cuts businesses and is a member of the PRO*ACT produce network. Trilantic invested in the company in 2024.",
+    "estimated_revenue_range": "$25M-$100M",
+    "confidence": "medium",
+    "notes": "Trilantic investment announced/recorded in 2024; revenue estimate derived from public business directories (AllBiz, Growjo) and may vary."
+  },
+  {
+    "name": "Voyant Beauty Inc",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Personal Care & Beauty Contract Manufacturing (CDMO)",
+    "description": "Voyant Beauty Inc is a contract development and manufacturing organization (CDMO) that develops and manufactures personal care, beauty, and household products\u2014providing formulation, product development, testing, packaging, regulatory support, and supply-chain services. The company operates manufacturing facilities across the U.S., Canada and Europe and serves categories including skincare, haircare, bath & body, fragrance, and home care. Voyant Beauty is a portfolio company of Wind Point Partners.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Owned by Wind Point Partners; sources report ~15 manufacturing facilities and ~4,000 employees, but public revenue figures are inconsistent/conflicting across commercial databases; founding year also varies across sources."
+  },
+  {
+    "name": "The Vertex Companies, LLC",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Professional Services",
+    "sector": "Forensic engineering, construction advisory & environmental consulting",
+    "description": "The Vertex Companies, LLC (VERTEX) is a multidisciplinary engineering and professional services firm that provides forensic engineering, construction project advisory, dispute resolution/expert witness services, environmental consulting, and program management to insurers, law firms, owners, sureties and public agencies. Since a 2021 investment by Wind Point Partners, Vertex has pursued geographic and capabilities expansion through acquisitions across North America and EMEA.",
+    "estimated_revenue_range": "$250M-$500M",
+    "confidence": "medium",
+    "notes": "Multiple third\u2011party sources give differing revenue estimates; ensure not to confuse with Vertex, Inc. (tax software). Headquartered in Massachusetts; Wind Point acquired a stake in Sept 2021."
+  },
+  {
+    "name": "HASA, Inc.",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Water Treatment Chemicals & Distribution (pool, municipal & industrial)",
+    "description": "HASA, Inc. is a manufacturer and distributor of water treatment chemicals and ancillary products\u2014primarily sodium hypochlorite and specialty pool chemicals\u2014serving recreational, municipal, industrial and commercial water systems. Headquartered in Saugus, California, the company operates multiple production and distribution facilities across the western and southwestern U.S. and has pursued add-on acquisitions (e.g., Orenda Technologies) to expand its specialty pool-chemicals portfolio.",
+    "estimated_revenue_range": "$200M-$400M",
+    "confidence": "medium",
+    "notes": "Acquired by Wind Point Partners in January 2023; completed add-on acquisition of Orenda Technologies in March 2023. Revenue estimate inferred from press coverage referencing ~ $60M EBITDA and company scale; estimate uncertain."
+  },
+  {
+    "name": "FreshEdge",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Food Distribution & Logistics",
+    "sector": "Fresh produce & specialty food distribution (fresh-cut processing, value-added services)",
+    "description": "FreshEdge is a super-regional distributor of fresh produce and specialty food products, headquartered in Indianapolis, IN. Formed in 2019 through the combination of Indianapolis Fruit, Piazza Produce and Get Fresh Produce, it serves foodservice, retail and institutional customers via fresh-cut processing facilities, a USDA fresh kitchen, warehousing and a large transportation fleet. Wind Point Partners acquired FreshEdge on October 4, 2022 and the platform has executed multiple add-on acquisitions to expand its Midwest and national footprint.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Wind Point Partners on October 4, 2022; multiple add-on acquisitions through 2024."
+  },
+  {
+    "name": "Open Road",
+    "pe_sponsor": "Trivest Partners",
+    "industry": "Automotive & Transportation",
+    "sector": "Collision Repair & Auto Body Shops",
+    "description": "Open Road (branded OpenRoad / OpenRoad Collision) is a platform that partners with and invests in leading collision repair centers across the United States. Formed by Trivest Partners and LP First Capital, its initial roll-up included Car Crafters, Drury & Moss Body Shop, 1st Choice Collision, and Helotes Collision, creating a 12-shop footprint across the Southwest; the platform is pursuing additional strategic acquisitions and is led by industry veterans.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Operates as OpenRoad (openroadcollision.com); initial portfolio includes Car Crafters (NM), Drury & Moss (TX), 1st Choice Collision (TX), Helotes Collision (TX). Formed in partnership between Trivest Partners and LP First Capital. Not to be confused with Open Road Films/other similarly named companies."
+  },
+  {
+    "name": "Tropicale",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Food & Beverage / Consumer Products",
+    "sector": "Frozen novelties (paletas, bolis, mangonada cups)",
+    "description": "Tropicale (operating as Tropicale Foods, LLC) is a manufacturer of Hispanic-inspired frozen novelty treats such as paletas, bolis and mangonada cups, sold under brands including Helados Mexico and La Michoacana. Founded in 1999 and headquartered in Ontario, California, the company supplies multi-outlet retailers, convenience stores, and grocery channels across the U.S. Wind Point Partners acquired Tropicale in December 2019 to support growth and manufacturing expansion.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Wind Point Partners (Dec 2019); operates Helados Mexico and La Michoacana brands; HQ in Ontario, CA; faced a 2021 class-action advertising lawsuit; legal entity Tropicale Foods, LLC."
+  },
+  {
+    "name": "D&H United",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Maintenance & Field Services",
+    "sector": "Fueling station & EV charging infrastructure maintenance, testing & inspection services",
+    "description": "D&H United (D&H United Fueling Solutions) provides mission-critical installation, maintenance, testing, inspection, repair and compliance services for petroleum fueling stations and electric vehicle (EV) charging infrastructure across the United States. Headquartered near Houston (Humble, TX), the company has grown via both organic expansion and add-on acquisitions since partnering with Wind Point Partners in September 2022.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Wind Point Partners (Sep 2022). Notable add-ons include Tanknology (Jul 2023) and HCN Petroleum Equipment (Nov 6, 2024). Operates ~35 branch offices and reports ~1,400 employees on its corporate site; does business as D&H United Fueling Solutions."
+  },
+  {
+    "name": "SmartCare",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Business Services",
+    "sector": "Commercial Kitchen & Refrigeration Equipment Repair & Maintenance",
+    "description": "Smart Care (branded Smart Care Equipment Solutions) provides nationwide commercial foodservice equipment repair, maintenance, installation and parts services, specializing in complex rack refrigeration, stand-alone refrigeration, hot-side cooking and specialty beverage equipment. The company serves grocers, convenience stores, restaurants, foodservice operators and warehouse customers and has grown through multiple add-on acquisitions under private equity ownership.",
+    "estimated_revenue_range": "$100M-$250M",
+    "confidence": "high",
+    "notes": "Operates as 'Smart Care' or 'Smart Care Equipment Solutions' (smartcaresolutions.com). Acquired/partnered with Wind Point Partners (listed as a Wind Point portfolio company; Wind Point announced add-on acquisitions). Revenue range based on public estimates (Growjo/Levels)."
+  },
+  {
+    "name": "GLOBO Language Solutions",
+    "pe_sponsor": "VSS",
+    "industry": "Business Services",
+    "sector": "Language Interpretation & Translation Technology",
+    "description": "GLOBO Language Solutions is a technology-enabled language services provider offering on-demand and scheduled interpreting (audio, video, on-site, and sign-language) and translation/localization services through its cloud platform GLOBO HQ and mobile app. The company serves healthcare, government, education, financial services and enterprise customers and maintains a global network of thousands of linguists. VSS completed a growth investment in GLOBO in January 2022 to support organic and inorganic expansion.",
+    "estimated_revenue_range": "$10M-$50M",
+    "confidence": "medium",
+    "notes": "VSS completed growth investment (Jan 11, 2022). Revenue not publicly disclosed; estimate based on third-party databases (Buzzfile, SignalHire) and press coverage. Company reported 4,000+ linguists in 2022 and 8,000+ in 2024; awarded a GSA MAS contract in Nov 2023."
+  },
+  {
+    "name": "PATCO Products",
+    "pe_sponsor": "Kingswood Capital Management",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Emulsifiers & Specialty Food Ingredients",
+    "description": "PATCO Products is a North American manufacturer of specialty emulsifiers (glycerides, lactylates, hydrates, esters and processing aids) serving food & beverage, polymer additives, personal care, pet food, and pharmaceutical markets. The business was carved out from Corbion\u2019s Caravan Emulsifiers and relaunched as a standalone company under Kingswood in April 2024; it operates two U.S. manufacturing sites and maintains corporate offices in the Kansas City area.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired from Corbion (Caravan/Caravan Emulsifiers) by Kingswood Capital on April 2, 2024; corporate HQ reported in Lenexa/Overland Park, KS; manufacturing facilities in Grandview, MO and Dolton, IL."
+  },
+  {
+    "name": "Heart and Vascular Partners",
+    "pe_sponsor": "Assured Health Partners",
+    "industry": "Healthcare Services",
+    "sector": "Cardiology Practice Management (MSO) / Cardiovascular Services",
+    "description": "Heart & Vascular Partners (HVP) is a physician-founded management services organization (MSO) that partners with and supports independently owned cardiology, vascular surgery, and interventional radiology practices. Founded in 2021, HVP provides revenue cycle management, shared services (HR/IT/finance/compliance), payer contracting, ASC/OBL development, and growth support while emphasizing clinical autonomy. The company reports a footprint across multiple states and partner practices and cites ~ $160M in 2025E aggregate practice revenue on its website.",
+    "estimated_revenue_range": "$150M-$200M",
+    "confidence": "medium",
+    "notes": "Founded 2021. Company site reports 5 states, 45 locations, 8 partner practices and '2025E Practice Revenue ~$160m' (appears to be aggregate practice revenue, not necessarily MSO corporate revenue). PE sponsor appears in sources as Assured Healthcare Partners (AHP) \u2014 user provided name 'Assured Health Partners' may be a variant. Sources: HeartAndVascularPartners.com; ahpartners.com."
+  },
+  {
+    "name": "Pacesetter Health",
+    "pe_sponsor": "VSS",
+    "industry": "Healthcare Services",
+    "sector": "Podiatry Practice Management (Lower Extremity Care)",
+    "description": "Pacesetter Health is a St. Louis\u2013based practice management and platform that partners with independent podiatry and foot & ankle clinics across the U.S., providing back-office services (billing, HR, compliance), technology/EMR support, and growth capital to expand practices and improve clinical and financial performance. The company (previously referenced as Podiatry Growth Partners) pursues a regional roll-up strategy to integrate and scale lower-extremity care practices.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Also referenced as Podiatry Growth Partners; backed by multiple private equity investors including VSS, Compass Group Equity Partners, Siguler Guff, and SunGate Capital; headquartered in St. Louis, MO."
+  },
+  {
+    "name": "Naturpak",
+    "pe_sponsor": "Trivest",
+    "industry": "Food Manufacturing",
+    "sector": "Shelf-stable Co-manufacturing & Packaging (Tetra Recart)",
+    "description": "Naturpak (operating as IPMF LLC / NaturPak) is a U.S.-based co-manufacturer and co-packer of shelf-stable foods and wet pet nutrition, specializing in bone broths, soups, sauces, wet pet food and related ingredient solutions. The company is a leading North American user of Tetra Recart retortable carton packaging and provides R&D, formulation, and large-scale shelf-stable production services for national retailers and consumer and pet brands.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Operates as IPMF LLC; headquartered in Janesville, WI. Trivest made a minority investment in Oct 2020; Trivest sold Naturpak to Pritzker Private Capital (PPC) announced Jan 6\u20137, 2026. 2018/2024 press references show consolidation of IPM Foods and NaturPak Pet under NaturPak. Largest North American co-manufacturer using Tetra Recart. -- sources: Trivest, FoodBev, FoodProcessing, Reed Smith, Westlake Securities."
+  },
+  {
+    "name": "Yummy Pools",
+    "pe_sponsor": "Trivest",
+    "industry": "Residential & Commercial Services",
+    "sector": "Pool Cleaning & Maintenance Services",
+    "description": "Yummy Pools is an Atlanta-based residential and commercial pool services company founded in 2022. It provides weekly and bi-weekly pool cleaning, maintenance, repair, and inspection services and has grown through the acquisition of local pool service businesses. In June 2024 the company received a majority investment/recapitalization from Trivest Partners to support further organic growth and roll-up activity.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Majority recapitalization by Trivest Partners announced June 4\u201310, 2024. Founded 2022; HQ Atlanta, GA; operates also under PoolCleaningServicesAtlanta / yummypools.com."
+  },
+  {
+    "name": "EWSG",
+    "pe_sponsor": "Trivest",
+    "industry": "Environmental Services",
+    "sector": "Wastewater & Stormwater Infrastructure Maintenance & Rehabilitation",
+    "description": "EWSG (Envirowaste Services Group) provides cleaning, inspection, maintenance, rehabilitation and emergency cleanup services for sanitary and stormwater collection systems and wastewater treatment infrastructure across the Southeast U.S. Its services include sewer and drain cleaning, CCTV inspection, trenchless and open-cut repairs, CIPP installation, manhole and pond rehabilitation, and WWTP tank cleaning.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Acquired by Trivest Partners in 2017; operates as Envirowaste Services Group (ewsg.com); no public revenue disclosed."
+  },
+  {
+    "name": "HFW Companies",
+    "pe_sponsor": "VSS Capital Partners",
+    "industry": "Architecture & Engineering Services",
+    "sector": "AEC platform / Architecture & Engineering (Civil, Structural, MEP, Landscape, Surveying)",
+    "description": "The HFW Companies is a St. Louis\u2013based platform that invests in and operates a \u2018house of brands\u2019 network of architecture and engineering (A-E) partner firms, providing back-office services, strategic capital and M&A support. Formed around 2020 and backed by VSS Capital Partners since 2021, HFW acquires regional A-E firms that retain brand and operational independence while leveraging shared resources and cross-selling opportunities.",
+    "estimated_revenue_range": "$100M-$250M",
+    "confidence": "medium",
+    "notes": "PE-backed platform (VSS Capital Partners, investment 2021); reported >$100M revenue and 500+ employees across platform; House-of-Brands model; headquartered in St. Louis, MO."
+  },
+  {
+    "name": "Cascade Services",
+    "pe_sponsor": "Trive",
+    "industry": "Residential Services",
+    "sector": "Residential HVAC, Plumbing & Electrical (tri-trade) platform",
+    "description": "Cascade Services is a platform that partners with independent residential HVAC, plumbing, and electrical contractors across the South Atlantic and Gulf states, providing centralized operational support, technician training, recruiting, marketing and capital for growth. Founded in 2022, the company was formed as a roll-up platform backed by Trive Capital (with co-investor First Capital) and is headquartered in Tampa, Florida. Cascade acquires and integrates local service brands to scale a tri-trade home services business.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Formed in 2022 as a platform backed by Trive Capital and First Capital; headquartered in Tampa, FL; multiple add-on acquisitions in Florida and the Southeast (e.g., Mid-Fla Heating & Air, Air Boca, Aztil Air)."
+  },
+  {
+    "name": "Emerald Technologies",
+    "pe_sponsor": "Crestview Partners",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Electronics Manufacturing Services (EMS) - high-mix, low-volume, high-reliability electronics manufacturing",
+    "description": "Emerald Technologies (formerly Emerald EMS) is a high-tech electronics manufacturing services (EMS) provider offering engineering, prototyping, assembly, testing, supply chain and lifecycle support for high-reliability, mission-critical products. The company serves aerospace & defense, medical, semiconductor, industrial controls, energy & renewables, and telecommunications customers through multiple U.S. facilities and operations in China and Malaysia. Crestview Partners acquired the business from New Water Capital in January 2022.",
+    "estimated_revenue_range": "$400M-$800M",
+    "confidence": "high",
+    "notes": "Acquired by Crestview Partners (Jan 4, 2022); formerly Emerald EMS (formed from DataED, Bestronics, Saline Lectronics, Veris); legal name Megatronics US Intermediate HoldCo LLC per Crunchbase/USPTO; estimate based on industry reporting (Circuits Assembly and trade press reported annual sales above $400M); website emeraldems.com redirects to emeraldtechnologies.com."
+  },
+  {
+    "name": "Enerpac Tool Group",
+    "pe_sponsor": "NA",
+    "industry": "Manufacturing & Industrial",
+    "sector": "High-pressure hydraulics, industrial tooling & controlled bolting",
+    "description": "Enerpac Tool Group Corp. designs, manufactures and sells industrial tools, high-pressure hydraulic equipment, and related services worldwide. The company is a market leader in controlled bolting, heavy lifting and positioning systems, and complementary products/services; it is headquartered in Menomonee Falls/Milwaukee, Wisconsin and is publicly traded (NYSE: EPAC).",
+    "estimated_revenue_range": "$500M-$700M",
+    "confidence": "high",
+    "notes": "Public company (NYSE: EPAC). FY2023 net sales $598.2M (Enerpac IR Oct 16, 2023). Headquarters: Menomonee Falls/Milwaukee, WI."
+  },
+  {
+    "name": "Bluum",
+    "pe_sponsor": "H.I.G. Capital",
+    "industry": "Education Technology",
+    "sector": "K-12 & Higher Education Technology Solutions & Services",
+    "description": "Bluum is a North American education-technology provider that partners with K\u201312 and higher-education institutions to plan, procure, implement, and support technology solutions. The company provides device procurement (e.g., Chromebooks, teacher devices, refurbished), professional development, cybersecurity/networking, STEM and esports programs, and installation/disposal services, supporting tens of thousands of districts and products used by over 20 million students daily. H.I.G. Capital lists Bluum as a portfolio company (investment 2014).",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "H.I.G. Capital portfolio company (invested 2014). Other unrelated companies use the name 'Bluum' (e.g., regenerative medicine, marketing); this profile refers to the H.I.G.-backed education-technology Bluum."
+  },
+  {
+    "name": "Growth Orthopedics",
+    "pe_sponsor": "Trivest",
+    "industry": "Healthcare Services",
+    "sector": "Orthopedic Management Services Organization (MSO)",
+    "description": "Growth Orthopedics (also branded Growth Ortho) is a private equity\u2013backed management services organization that partners with independent orthopedic physician groups and ASCs. The firm provides administrative infrastructure, recruitment and staffing support, facility/ASC integrations, and strategic/operational resources while preserving physician clinical autonomy. Growth Orthopedics is backed by Trivest Partners and has announced partnerships with groups such as Bluegrass Orthopaedics and Orthopaedic Specialists of Austin.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Operates under the name Growth Ortho/Growth Orthopedics; Trivest Partners is the capital sponsor (platform activity since ~2020; add-on activity reported Dec 2023)."
+  },
+  {
+    "name": "Bright Event Rentals",
+    "pe_sponsor": "Trivest",
+    "industry": "Business Services",
+    "sector": "Event & Party Rental Services (tents, furniture, linens, tabletop, kitchen equipment)",
+    "description": "Bright Event Rentals is a full-service special event rental company headquartered in Los Angeles, supplying tenting, linens, furniture, tabletop items, kitchen equipment, and production/logistics services for weddings, festivals, corporate events, and other special occasions. Founded in 2013, the company operates multiple fulfillment centers and showrooms across California, Arizona, Texas and, following acquisitions, New England and the Hudson Valley, and sells through its Bright and PEAK/Peerless brands.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Trivest partnership announced March 19, 2024; acquired PEAK Event Services from Dubin Clark (March 2024) and acquired Peerless Events & Tents (Sept 6, 2023). Headquartered in Los Angeles, CA; operates across CA, AZ, TX, MA, NH, RI, and NY. Sources: Trivest press release, Bright press releases, Business Wire."
+  },
+  {
+    "name": "Remedi8",
+    "pe_sponsor": "VSS Capital Partners (VSS)",
+    "industry": "Facilities & Building Services",
+    "sector": "Fire & Life Safety Compliance / Passive Fire Protection Services",
+    "description": "REMEDI8 (formerly Barrier Companies) is a nationwide provider of passive fire protection and life-safety compliance services, offering inspection, maintenance, repair, and installation of fire doors, fire/smoke dampers, firestopping, and related containment services. The company focuses on healthcare and other high-value facilities and provides reporting/asset-tracking software and nationwide technician coverage. REMEDI8 formed through the consolidation and rebranding of several regional fire & life safety businesses.",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "medium",
+    "notes": "Rebranded from Barrier Companies on Jan 23, 2023; VSS Capital Partners completed a platform investment in Barrier Companies in April 2021 alongside Lincolnshire Management; revenue estimate derived from third-party business directories. Headquartered in Lenexa/Overland Park, KS."
+  },
+  {
+    "name": "California Fish Grill",
+    "pe_sponsor": "KarpReilly",
+    "industry": "Restaurants & Foodservice",
+    "sector": "Fast-casual seafood restaurants",
+    "description": "California Fish Grill is a fast-casual seafood restaurant chain founded in 1998 and headquartered in Newport Beach, California. The brand operates roughly 50+ locations across California and select other U.S. markets and focuses on flame-grilled, responsibly sourced seafood served in a fast-casual format. It emphasizes sustainability and partners with reputable fisheries for wild-caught and responsibly farmed fish.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Confirmed KarpReilly portfolio company; conflicting third-party revenue estimates (e.g., Buzzfile ~ $50M; SignalHire $5-25M). ~50+ locations; founded 1998; HQ Newport Beach; CEO listed as Bob Holden in public profiles."
+  },
+  {
+    "name": "Flexcon",
+    "pe_sponsor": "NA",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Pressure-sensitive films & adhesives (labels, tapes, functional materials)",
+    "description": "FLEXcon develops and manufactures pressure-sensitive films, adhesives, and durable labeling materials used across healthcare, packaging, transportation, electronics, industrial and construction markets. A family-owned business founded in 1956 and headquartered in Spencer, Massachusetts, it operates manufacturing and distribution sites across North America, Europe and Asia.",
+    "estimated_revenue_range": "$300M-$500M",
+    "confidence": "medium",
+    "notes": "Multiple distinct companies use the name 'Flexcon' (e.g., Flexcon Industries, Flexcon Container, Flexcon Inc.); this profile is for FLEXcon Company, Inc., the pressure-sensitive films & adhesives manufacturer (headquartered Spencer, MA). Revenue based on Worcester Business Journal reporting that FLEXcon has surpassed more than $300M in annual sales."
+  },
+  {
+    "name": "Legacy Cabinets",
+    "pe_sponsor": "Black Diamond",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Kitchen & Bath Cabinet Manufacturing",
+    "description": "Legacy Cabinets manufactures hardwood kitchen, bathroom and other cabinetry; it produces stock, semi-custom and custom lines from a large manufacturing facility in Eastaboga, Alabama and sells primarily through a dealer network. The company serves single- and multi-family new construction as well as repair/remodel end markets.",
+    "estimated_revenue_range": "$75M-$200M",
+    "confidence": "medium",
+    "notes": "PE owner listed as Black Diamond Capital Management; revenue estimates vary across third-party databases; HQ: Eastaboga, AL; founded 1994."
+  },
+  {
+    "name": "Kravet",
+    "pe_sponsor": "Dunes Point Capital",
+    "industry": "Consumer Goods & Retail",
+    "sector": "To-the-Trade Home Furnishings & Textiles Distribution",
+    "description": "Kravet, founded in 1918 and headquartered in Woodbury, NY, is a leading to-the-trade home furnishings company that designs and distributes fabrics, furniture, wallcoverings, trimmings and carpets under the Kravet, Lee Jofa, GP & J Baker, Brunschwig & Fils and Donghia brands. The company operates showrooms worldwide, distribution centers in Anderson, SC and Poole, England, and a manufacturing facility in Thomasville, NC, and employs roughly 800\u2013900 people. In December 2024 Dunes Point Capital acquired a majority stake; the Kravet family retained a significant ownership position and remains in leadership.",
+    "estimated_revenue_range": "$250M-$350M",
+    "confidence": "medium",
+    "notes": "Acquired majority stake by Dunes Point Capital on December 4, 2024; Kravet family remains significant shareholder and continues to lead. Employee count reported ~870; public/private revenue estimates vary (~$259M\u2013$300M across data providers)."
+  },
+  {
+    "name": "ReFocus Management Services, LLC",
+    "pe_sponsor": "Zenyth Partners",
+    "industry": "Healthcare Services",
+    "sector": "Ophthalmology Practice Management (MSO)",
+    "description": "ReFocus Management Services, LLC (branded ReFocus Eye Health) is a management services organization that provides business and operational support \u2014 including revenue cycle, HR, IT, marketing, finance, and operations \u2014 to affiliated ophthalmology and optometry practices and ambulatory surgery centers across the Northeast and Mid-Atlantic. Founded in 2018 and headquartered in Stamford, Connecticut, ReFocus partners with independent physician groups to scale practices and expand specialty services. The company is a portfolio company backed by Zenyth Partners.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Branded as ReFocus Eye Health; headquartered in Stamford, CT; founded 2018; trademark 'REFOCUS EYE HEALTH' registered to Visionary Eye Care Partners, Inc.; sources include Zenyth Partners, PR Newswire, Cassel Salpeter & Co., ReFocus corporate site."
+  },
+  {
+    "name": "Experigreen Lawn Care, LLC",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Consumer Services",
+    "sector": "Residential Lawn Care & Lawn Maintenance Services",
+    "description": "ExperiGreen Lawn Care is a residential lawn-care services platform headquartered in Mishawaka, Indiana, offering fertilization, weed control, aeration, seeding, disease and grub treatment, perimeter pest control, and tree & shrub care. Founded in 2016, the company has grown through organic expansion and roll-up acquisitions and serves customers across multiple U.S. states and Canadian provinces.",
+    "estimated_revenue_range": "$100M-$250M",
+    "confidence": "medium",
+    "notes": "Acquired by Wind Point Partners on January 7, 2025; previously backed by Huron Capital; headquartered in Mishawaka, IN; serves ~140,000 residential customers (2024\u20132025). Revenue figure is an estimate from third-party sources."
+  },
+  {
+    "name": "SDC Nutrition Inc",
+    "pe_sponsor": "Shore Capital",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Nutraceutical / Dietary Supplement Manufacturing",
+    "description": "SDC Nutrition Inc is a contract manufacturer and brand marketer of nutritional supplements and sports nutrition products. Founded in 2008 and headquartered in Pittsburgh, PA, it provides turnkey services including product formulation, powder/capsule/tablet manufacturing, packaging, lab testing, and regulatory support for private-label and branded customers.",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "medium",
+    "notes": "Acquired by Shore Capital Partners (Feb 1, 2024) per Mergr; revenue estimate from Cortera/FindMyManufacturer; headquartered in Pittsburgh, multiple sources (LinkedIn, Crunchbase, PRNews)."
+  },
+  {
+    "name": "Innovative Foodservice Group",
+    "pe_sponsor": "Trivest",
+    "industry": "Foodservice Distribution & Services",
+    "sector": "Commercial Foodservice Equipment & Supplies Distribution, Design & Installation",
+    "description": "Innovative Foodservice Group (IFG) is a private, Trivest-backed group of commercial foodservice equipment and supplies distributors and service providers that offers equipment, smallwares, design, fabrication, installation and consulting to restaurants, hospitality and institutional customers. IFG comprises multiple regional brands (including Beltram and B&J) and has grown through add-on acquisitions such as JES Restaurant Equipment. The company operates showrooms and distribution/warehouse facilities across several U.S. states and is headquartered in Tampa, Florida.",
+    "estimated_revenue_range": "$50M-$200M",
+    "confidence": "medium",
+    "notes": "PE-backed by Trivest (investment announced April 8, 2020). Operates brands including Beltram and B&J; completed acquisition of JES Restaurant Equipment in Jan 2019. Revenue estimate inferred from employee count (~251-500) and distribution business model; not publicly disclosed."
+  },
+  {
+    "name": "Olympus Cosmetic Group",
+    "pe_sponsor": "VSS Capital Partners",
+    "industry": "Healthcare / Medical Practices",
+    "sector": "Cosmetic surgery & aesthetic medicine (Management Services Organization)",
+    "description": "Olympus Cosmetic Group is a surgeon-led, private-equity-backed management services organization that partners with cosmetic surgery and dermatology practices. The company provides administrative, operational and shared services to deliver cosmetic surgery, dermatological treatments and non-surgical aesthetic procedures, and is building a scalable platform through add-on acquisitions.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "VSS announced a growth investment on June 13, 2023. Company site lists a Boca Raton, FL address while the VSS press release referenced Jacksonville, FL; initial footprint includes Florida, Oklahoma and Alabama. Reported add-on acquisitions include Artisan Plastic Surgery / Artisan Beaut\u00e9. Founding physician-leaders named in filings: Dr. Erik Nuveen, Dr. Alberico Sessa, Dr. James Koehler."
+  },
+  {
+    "name": "Double B Foods",
+    "pe_sponsor": "Anderson Group",
+    "industry": "Food & Beverage Manufacturing",
+    "sector": "Frozen & refrigerated handheld appetizers, snacks, desserts; private-label co-packing",
+    "description": "Double B Foods, Inc. develops and manufactures handcrafted frozen and refrigerated handheld appetizers, entr\u00e9es, desserts and dips for retail (primarily private label) and foodservice customers. Headquartered in Arlington, TX, the company operates a ~100,000 sq ft USDA/FDA-inspected, BRC-certified manufacturing facility and a product innovation center in the Dallas\u2013Fort Worth area. Double B offers blending, baking, enrobing, frying, wrap/rolling and co-pack/private-label services for major retailers and foodservice distributors.",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "medium",
+    "notes": "Acquired by The Anderson Group (announced Oct 2024). Revenue estimates vary across sources (LeadIQ/Growjo ~ $25M; Zippia reports lower figure). Headquarters Arlington, TX; manufacturing in Meridian, TX; founded 1971; trademark registered."
+  },
+  {
+    "name": "Friendly Home Service Group",
+    "pe_sponsor": "RFE Investment Partners",
+    "industry": "Home Services",
+    "sector": "Residential HVAC, Plumbing, Drainage, Sewer & Electrical Services",
+    "description": "Friendly Home Service Group (appears in RFE materials as Friendly Group / Friendly Home Services Group) is a residential home-services platform providing HVAC, plumbing, drainage, sewer and electrical services. RFE Investment Partners is backing the Friendly Group platform to build a super-regional/national home services provider; Friendly Group announced the acquisition of Friendly Home Services (Salt Lake City) in August 2020.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Name appears in sources as 'Friendly Group' or 'Friendly Home Services'; RFE lists Friendly Group as a current investment. Friendly Group acquired Friendly Home Services (Salt Lake City) on Aug 5, 2020. Revenue not publicly disclosed."
+  },
+  {
+    "name": "Printful",
+    "pe_sponsor": "Bregal Sagemount",
+    "industry": "Business & Consumer Services",
+    "sector": "Print-on-Demand Fulfillment (Apparel-on-Demand & E-commerce Fulfillment)",
+    "description": "Printful is a technology-enabled print-on-demand and fulfillment platform that prints, packs, and ships custom apparel, accessories, and home goods for e-commerce merchants, creators, and brands. It offers integrations with major ecommerce platforms, white-label packaging, and operates a global network of fulfillment centers to deliver on-demand production and logistics services.",
+    "estimated_revenue_range": "$200M-$500M",
+    "confidence": "medium",
+    "notes": "Bregal Sagemount led a $130M growth investment in May 2021; company reported revenue exceeding $200M in 2020. Announced merger with Printify on Nov 5, 2024. Private company \u2014 revenue is an estimate from press reports."
+  },
+  {
+    "name": "Monarca Foods",
+    "pe_sponsor": "Wind Point Partners",
+    "industry": "Food & Beverage",
+    "sector": "Snack Foods & Ingredients (Hispanic-inspired snacks, snack pellets)",
+    "description": "Wind Point Partners-backed Monarca (branded on some sites as Monarca Food Solutions / Monarca Authentic Snacks) is a vertically integrated manufacturer of Hispanic and Hispanic-inspired snack foods and pellet-based snack ingredients. The business was created from Wind Point\u2019s roll-up of Benestar/Evans Food Group and Palmex Alimentos and operates manufacturing facilities in the U.S. and Mexico, selling branded and private-label tortilla chips, pork rinds, snack mixes and snack pellets across the Americas. Brands and legacy businesses associated with the platform include Evans, Mac\u2019s, Turkey Creek, 4505 pork rinds, Chicas, Cazo de Oro and Palmex pellet products.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "high",
+    "notes": "Also identified on Wind Point\u2019s portfolio as \u2018Monarca Food Solutions\u2019 (acquired Feb 2022). The business was formed by combining Benestar/Evans and Palmex (merger activity in 2023\u20132025) and is sometimes branded as Monarca Authentic Snacks; revenue not publicly disclosed. Sources: Wind Point Partners, Monarca corporate site, industry press."
+  },
+  {
+    "name": "Belt Power",
+    "pe_sponsor": "Platte River Equity",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Conveyor belting & conveyor system components distribution and fabrication",
+    "description": "Belt Power is a full-service, value-added distributor and fabricator of conveyor system components\u2014including conveyor belts, equipment, accessories, rubber hose and gasket products\u2014and provides 24/7 installation, maintenance and repair services. Headquartered in Marietta, GA, it operates a national network of fabrication and distribution facilities and serves end markets such as food, packaging, material handling and industrial segments. Since Platte River Equity\u2019s investment in August 2022, the company has completed multiple add-on acquisitions to expand its footprint.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired by Platte River Equity on August 23, 2022; multiple add-on acquisitions (Dunham Rubber & Belting; Reliable Rubber; Blankenship Belting; Avtech Industrial Products; Mol Belting Systems; Sparks Belting Company). Headquartered in Marietta, GA; operates a multi-location national footprint (20+ facilities per company website)."
+  },
+  {
+    "name": "In-Place Machining Company",
+    "pe_sponsor": "LLCP (Levine Leichtman Capital Partners)",
+    "industry": "Manufacturing & Industrial",
+    "sector": "On-site precision field machining & metrology services",
+    "description": "In-Place Machining Company (IPM) provides high-acuity, on-site precision machining, dimensional metrology, diamond wire cutting, and specialty field services for mission-critical industrial equipment across sectors including power generation, metals, marine, aerospace, and manufacturing. Founded in 1976 and headquartered in Milwaukee, WI, IPM operates multiple locations across North America and maintains a large inventory of dedicated field machining systems. The company was acquired by Levine Leichtman Capital Partners (LLCP) in September 2021.",
+    "estimated_revenue_range": "$25M-$50M",
+    "confidence": "medium",
+    "notes": "Acquired by Levine Leichtman Capital Partners (LLCP) in September 2021; third-party revenue estimates vary (~$35M-$40M) and no official public revenue disclosure found."
+  },
+  {
+    "name": "USA Water",
+    "pe_sponsor": "LLCP",
+    "industry": "Utilities",
+    "sector": "Water & Wastewater Operations & Maintenance",
+    "description": "USA Water is a platform company that provides operations and maintenance (O&M) services for water and wastewater systems, serving municipalities and utility districts across the Southeastern United States. The company was formed in 2020 as a buy-and-build vehicle for water and wastewater utility operations and has grown through acquisitions of regional O&M providers.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Acquired by Levine Leichtman Capital Partners (LLCP) on Feb 22, 2024; formed by Warren Equity Partners in 2020 and headquartered in Rosenberg, TX per press releases (some profiles list Houston, TX). Revenue not publicly disclosed. Sources: Business Wire, Kirkland & Ellis press release, LinkedIn, Craft.co."
+  },
+  {
+    "name": "Milton Industries",
+    "pe_sponsor": "Levine Leichtman Capital Partners (LLCP)",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Pneumatic & Hydraulic Accessories / Tools",
+    "description": "Milton Industries, Inc. (Chicago) designs, manufactures and markets precision-engineered pneumatic and hydraulic accessories. The company offers over 1,600 SKUs including couplers, gauges, chucks, blow guns, filters, regulators, lubricators and specialty tools serving end markets such as vehicle service, industrial MRO, aerospace & defense, and agriculture. Founded in 1943, Milton partnered with private equity sponsor Levine Leichtman Capital Partners in November 2019 and has pursued acquisitive growth since.",
+    "estimated_revenue_range": "$10M-$50M",
+    "confidence": "medium",
+    "notes": "Acquired by Levine Leichtman Capital Partners in Nov 2019; cited in LLCP continuation fund (Nov 21, 2024). Name is shared with an unrelated Indian public company (NSE: MILTON) \u2014 PE sponsor used to disambiguate. Revenue not publicly disclosed; estimate from vendor databases and government contract listings."
+  },
+  {
+    "name": "Science Care",
+    "pe_sponsor": "LLCP (Levine Leichtman Capital Partners)",
+    "industry": "Healthcare Services",
+    "sector": "Whole-body donation / Human tissue banking & medical training services",
+    "description": "Science Care operates a nationwide non-transplant human tissue bank and whole-body donation program that sources voluntary whole-body donations, prepares and distributes anatomical specimens for medical research, surgical training, and professional education, and provides no-cost cremation for donors. The company serves medical device companies, medical schools, hospitals and training organizations and is accredited by the AATB and ACCME.",
+    "estimated_revenue_range": "$10M-$50M",
+    "confidence": "high",
+    "notes": "Acquired by Levine Leichtman Capital Partners (LLCP) in April 2019; revenue estimates vary across sources (e.g., Reuters reported ~$27M in 2017)."
+  },
+  {
+    "name": "Capsa Healthcare",
+    "pe_sponsor": "Levine Leichtman Capital Partners (LLCP)",
+    "industry": "Manufacturing & Industrial",
+    "sector": "Pharmacy automation & medication management systems",
+    "description": "Capsa Healthcare designs and manufactures pharmacy automation, medication management systems, point-of-care workstations, and clinical/storage carts for hospitals, pharmacies, and other healthcare settings. The company provides integrated hardware and software workflow solutions and has expanded via add-on acquisitions to broaden its storage and automation offerings.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Portfolio company of Levine Leichtman Capital Partners (LLCP); acquired MASS Medical (announced July 17, 2023). Headquartered in Columbus, OH with production/engineering locations in Portland, OR and Agua Prieta, Mexico. Revenue estimates vary widely across third-party data providers; reliable public revenue not found."
+  },
+  {
+    "name": "Norlee Group",
+    "pe_sponsor": "HWP",
+    "industry": "Construction & Engineering Services",
+    "sector": "Electrical & Specialty Contracting (MEP, Technology, Fire Protection)",
+    "description": "Norlee Group is a Jacksonville, Florida\u2013based multi-brand provider of electrical, mechanical, technology, fire protection, and engineering & design services. The company operates as an integrated platform serving commercial, healthcare, infrastructure, education, government, retail, institutional, multi-family, and hospitality clients, and has expanded through multiple acquisitions of regional firms.",
+    "estimated_revenue_range": "$50M-$200M",
+    "confidence": "medium",
+    "notes": "Headquartered in Jacksonville, FL; reported workforce ~600 employees. Previously backed by White Wolf Capital (c.2023) and received a growth investment from Heartwood Partners (announced June 12, 2025; investment dated Oct 28, 2024 / Mergr lists acquisition date Nov 5, 2024). 'HWP' mapped to Heartwood Partners. Revenue range estimated from employee count and typical PE target bands; exact revenue not publicly disclosed."
+  },
+  {
+    "name": "Choice Health",
+    "pe_sponsor": "Trive",
+    "industry": "Healthcare",
+    "sector": "Home Health, Hospice & Post-Acute Services",
+    "description": "Choice Health (operating as Choice Health at Home) is a Texas-based provider of post-acute services including home health, hospice, private duty, rehabilitation, and remote patient monitoring. Founded in 2007 by David Jackson and headquartered in Tyler, TX, the company has grown via organic expansion and M&A across multiple Southwestern states. Trive Capital partnered with Choice in 2020 to support expansion and add-on acquisitions.",
+    "estimated_revenue_range": "Unknown",
+    "confidence": "medium",
+    "notes": "Also known as Choice Health at Home; headquartered in Tyler, TX; Trive investment/partnership announced Aug 19, 2021 (initial investment July 2020). Exact revenue not publicly disclosed."
+  }
+]

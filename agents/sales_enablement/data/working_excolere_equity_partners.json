@@ -1,0 +1,28 @@
+{
+  "pe_firm": {
+    "name": "Excolere Equity Partners"
+  },
+  "portfolio_companies": [
+    {
+      "name": "AeroGuard Flight Training Center",
+      "industry": "Aviation / Flight Training",
+      "description": "Leading aviation academy offering career-focused pilot training with multiple airfield campuses, a fleet of 120+ aircraft, and partnerships with airlines."
+    },
+    {
+      "name": "Acceleration Academies",
+      "industry": "K-12 Education / Dropout Recovery",
+      "description": "Provider of re-engagement and dropout recovery programs combining online learning with in-person coaching to support at-risk high school students."
+    },
+    {
+      "name": "Lantern Learning Group",
+      "industry": "Early Childhood Education",
+      "description": "Network of early childhood education brands offering high-quality programs for infants through pre-kindergarten."
+    },
+    {
+      "name": "EPS Learning",
+      "industry": "K-12 Curriculum / Literacy & Math Solutions",
+      "description": "Developer of evidence-based supplemental literacy and math curriculum focused on foundational reading, intervention, and structured literacy aligned to the Science of Reading."
+    }
+  ],
+  "company_analyses": []
+}
